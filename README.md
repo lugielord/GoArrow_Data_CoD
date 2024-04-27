@@ -5,28 +5,18 @@ For whatever reason just putting the link below in the GoArrow Update the Locati
 
 Instead download the file using the link, save to somewhere like C:\data_cod.xml, the add that to the GoArrow Update the Locations Database / URL Box, Hit the Update Locations Database button, Let it finish, then hit the button again.
 
-Current number of locations in database should read: 5219 (as of 11.20.2023 anyways)
+Current number of locations in database should read: 5494 (as of 04.27.2024)
 
----
 
-Darktorizo's Location Database:
+lugielord's Location Database:
 
-https://raw.githubusercontent.com/Darktorizo/GoArrow_Data_CoD/master/data_cod.xml - Last File Update / Upload 11.20.2023
+https://raw.githubusercontent.com/lugielord/GoArrow_Data_CoD/master/data_cod.xml - Last File Update / Upload 04.11.2024
+(insync with ACE Emulator database v0.9.279)
 
----
-
-Roogon's Location Database:
-
-https://raw.githubusercontent.com/Darktorizo/GoArrow_Data_CoD/master/GAlocations.xml - Last File Update / Upload 04.15.2012
-
-Mirror Of:
-
-http://maps.roogon.com/downloads/GAlocations.xml - Last File Update / Upload 04.15.2012
-
----
+--
 
 # GoArrow Dungeon Maps
-How I got the Dungeon Maps to work (Your Milage May Vary)
+How I got the Dungeon Maps to work
 
 1.Modify your hosts file in Windows 10
 
@@ -36,30 +26,35 @@ How I got the Dungeon Maps to work (Your Milage May Vary)
     Add:
     #Asherons Call ACMAPS for Go Arrow
     127.0.0.1 www.acmaps.com
+    127.0.0.1 ac.lastalias.com
     Save File
     
-2. Download your GoArrow of choice:
-
-Standalone
-https://github.com/Darktorizo/GoArrow_Data_CoD/blob/master/GoArrow%203.0.0.0.msi
-
--Or-
-
-VVS Edition
+2. Download GoArrow VVS Edition
 https://github.com/Darktorizo/GoArrow_Data_CoD/blob/master/GoArrow_2.5.0.0.VVS_WDM.zip
 
-Also
+3. Install GoArrowVVS in C:\Games\VirindiPlugins\GoArrowVVSEdition}
 
-https://github.com/Darktorizo/GoArrow_Data_CoD/blob/master/Dungeon_Map_Cache.zip
+4. rename old DLL C:\Games\VirindiPlugins\GoArrowVVSEdition\GoArrow.dll to C:\Games\VirindiPlugins\GoArrowVVSEdition\GoArrow.dll.old
 
-3. Install GoArrow <Version>
+5. Download Go Arrow Update (fixes access to dungeon maps)
+https://github.com/lugielord/GoArrow_Data_CoD/blob/master/GoArrow_Update.zip
 
-4. Unzip/Overwrite any current files in the Dungeon Map Cache Folder
+6. Unzip new GoArrow.dll into C:\Games\VirindiPlugins\GoArrowVVSEdition
 
-5. Enter Game, Go To Dungeon, Click On GoArrow > Dungeon Tab > This Dungeon 
+7. load client, clear GoArrow cache on HUD's/ Dungeon tab
 
-Dungeon Maps "Should" Open
+8. Download Dungeon Maps Cache
+https://github.com/lugielord/GoArrow_Data_CoD/blob/master/Dungeon_Map_Cache.zip
+ (2018 Baseline maps) 
 
-# GoArrow Dungon Maps Alternative
+9. Unzip dungeon maps cache files into C:\Games\VirindiPlugins\GoArrowVVSEdition\Dungeon Map Cache
 
-https://utilitybelt.gitlab.io/
+10. Download Dungeon Maps Cache updates
+https://github.com/lugielord/GoArrow_Data_CoD/blob/master/Dungeon%20Map%20Cache%20Updates.rar 
+ (All updates since 2018)
+
+11. Unzip dungeon maps cache UPDATE files into C:\Games\VirindiPlugins\GoArrowVVSEdition\Dungeon Map Cache
+  (Overwriting anything that is there)
+
+12. restart client
+
