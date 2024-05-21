@@ -5,13 +5,13 @@ For whatever reason just putting the link below in the GoArrow Update the Locati
 
 Instead download the file using the link, save to somewhere like C:\data_cod.xml, the add that to the GoArrow Update the Locations Database / URL Box, Hit the Update Locations Database button, Let it finish, then hit the button again.
 
-Current number of locations in database should read: 5494 (as of 04.27.2024)
+Current number of locations in database should read: 5607 (as of 05.21.2024)
 
 
 lugielord's Location Database:
 
-https://raw.githubusercontent.com/lugielord/GoArrow_Data_CoD/master/data_cod.xml - Last File Update / Upload 04.11.2024
-(insync with ACE Emulator database v0.9.279)
+https://raw.githubusercontent.com/lugielord/GoArrow_Data_CoD/master/data_cod.xml - Last File Update / Upload 05.18.2024
+(insync with ACE Emulator database v0.9.280)
 
 --
 
