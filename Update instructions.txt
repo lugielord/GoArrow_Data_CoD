@@ -18,7 +18,7 @@ data_cod.xml schema explained
 <dungeon_id></dungeon_id> <-- Used for Dungeons Only (Type /loc in dungeon for ID). First 4 hex values.
 <retired>N</retired> <-- Location Retired Y/N (Y will hide it from visibility in GoArrow ect)
 <settlement></settlement> <-- Y or Blank
-<tod_req>0</tod_req> <-- Not Used
+<tod_req>14293</tod_req> <-- Used to store weenie id (when possible)
 </location>
 
 Thank you Darktorizo and Roogon for setting up this file!
