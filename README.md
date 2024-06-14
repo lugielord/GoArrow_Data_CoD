@@ -5,7 +5,7 @@ For whatever reason just putting the link below in the GoArrow Update the Locati
 
 Instead download the file using the link, save to somewhere like C:\data_cod.xml, the add that to the GoArrow Update the Locations Database / URL Box, Hit the Update Locations Database button, Let it finish, then hit the button again.
 
-Current number of locations in database should read: 5429 (as of 06.09.2024)
+Current number of locations in database should read: 5436 (as of 06.14.2024)
 
 
 lugielord's Location Database:

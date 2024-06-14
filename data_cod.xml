@@ -123,18 +123,18 @@
 	<!-- Thank you AC Emulators for making this possible! -->
 
 
-    <num_location>5606</num_location>
+    <num_location>5610</num_location>
 <!-- ********************************************** -->
 <!-- **** LOCATION PASTE FROM EXCEL STARTS HERE *** -->
 <!-- ********************************************** -->
-	<location>
+		<location>
 		<id>21</id>
 		<latitude>28.200</latitude>
 		<longitude>13.900</longitude>
 		<name>North Al-Arqas Outpost</name>
 		<type>Outpost</type>
 		<hyperlink>/atlas/surveys/alarqas.php#north</hyperlink>
-		<description>Original starter-dungeon location for Al-Arqas, which was destroyed by Martine.</description>
+		<description>Original starter-dungeon location for Al-Arqas, which was Reopened by Martine.</description>
 		<date_added>2000-02-15 06:57:36</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -144,7 +144,7 @@
 		<id>22</id>
 		<latitude>28.100</latitude>
 		<longitude>13.800</longitude>
-		<name>North Al-Arqas Outpost Life Stone</name>
+		<name>Al-Arqas (N) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 06:57:36</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -158,7 +158,7 @@
 		<name>West Al-Arqas Outpost</name>
 		<type>Outpost</type>
 		<hyperlink>/atlas/surveys/alarqas.php#west</hyperlink>
-		<description>Original starter-dungeon location for Al-Arqas, which was destroyed by Martine.</description>
+		<description>Original starter-dungeon location for Al-Arqas, which was Reopened by Martine.</description>
 		<date_added>2000-02-15 06:58:18</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -168,7 +168,7 @@
 		<id>24</id>
 		<latitude>31.200</latitude>
 		<longitude>10.800</longitude>
-		<name>West Al-Arqas Outpost Life Stone</name>
+		<name>Al-Arqas (W) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 06:57:36</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -182,7 +182,7 @@
 		<name>Al-Arqas</name>
 		<type>Town</type>
 		<imgsrc>pics/image_25</imgsrc>
-		<description>Al-Arqas was at one time an arrival point for new Isparians. However, the outposts and advocate spires were destroyed by Martine long ago. The town is now scarcely populated, as there are few unique NPCs here, and quicker routes have opened up to the Gharu'ndim master mage, such as Xarabydun.
+		<description>Al-Arqas was at one time an arrival point for new Isparians. However, the outposts and advocate spires were Reopened by Martine long ago. The town is now scarcely populated, as there are few unique NPCs here, and quicker routes have opened up to the Gharu'ndim master mage, such as Xarabydun.
 
 The A'mun Desert is a hostile place, reminiscent of the trackless Naqut on Ispar. The dunes stretch beneath the sweltering sun for mile upon mile, with little water or hope of shelter. Even within such harsh lands, however, there are rare islands of succor: oases where fresh water miraculously bubbles forth, creating motes of greenery amid the wastes. Such a place is Al-Arqas (literally, "The Haven"), which sprang into being only recently, when Gharu'ndim desert-walkers discovered a hitherto unknown spring in the A'mun's southern expanses. Though less than half a year old, the town is already flourishing, as it provides a convenient halfway-point for travelers moving between Yaraq an southern towns like Uziz and Khayyaban.
 
@@ -479,7 +479,7 @@ The Old Keep is a tower lit with green flames that sits on the side of a mountai
 		<id>46</id>
 		<latitude>33.600</latitude>
 		<longitude>69.900</longitude>
-		<name>West Shoushi Outpost Life Stone</name>
+		<name>Shoushi (W) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:51:51</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -530,7 +530,7 @@ The Old Keep is a tower lit with green flames that sits on the side of a mountai
 		<id>50</id>
 		<latitude>36.700</latitude>
 		<longitude>75.800</longitude>
-		<name>Southeast Shoushi Outpost Life Stone</name>
+		<name>Shoushi (SE) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:00:27</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -554,7 +554,7 @@ The Old Keep is a tower lit with green flames that sits on the side of a mountai
 		<id>52</id>
 		<latitude>21.300</latitude>
 		<longitude>1.300</longitude>
-		<name>East Yaraq Outpost Life Stone</name>
+		<name>Yaraq (E) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:00:40</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -583,8 +583,8 @@ A series of rocky buttes rise from the peninsula on the southern edge of the Yar
 	<location>
 		<id>54</id>
 		<latitude>18.700</latitude>
-		<longitude>-1.600</longitude>
-		<name>North Yaraq Outpost Life Stone</name>
+		<longitude>-1.500</longitude>
+		<name>Yaraq (N) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:52:35</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -674,7 +674,7 @@ Collector - Like most collectors, this one will pay coin for all manner of odds 
 		<id>61</id>
 		<latitude>-39.500</latitude>
 		<longitude>33.300</longitude>
-		<name>South Holtburg Outpost Life Stone</name>
+		<name>Holtburg (S) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:01:16</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -685,7 +685,7 @@ Collector - Like most collectors, this one will pay coin for all manner of odds 
 		<id>62</id>
 		<latitude>-42.500</latitude>
 		<longitude>30.800</longitude>
-		<name>West Holtburg Outpost Life Stone</name>
+		<name>Holtburg (W) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:01:16</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -765,7 +765,7 @@ Now contains a runed chest (thanks Alunor - MT).</description>
 		<type>Town</type>
 		<imgsrc>pics/image_67</imgsrc>
 		<hyperlink>/atlas/surveys/rithwic.php</hyperlink>
-		<description>Rithwic is an Aluvian town on the southern end of Lake Blessed where the waters of the River Prosper narrow. It is at a major intersection of roads. The road to the southwest leads to Lytelthorpe. The western road leading north goes to Cragstone. The eastern road leading north goes to Eastham. And the eastern road leading south goes to Dryreach. It was one of the original starter towns until Martine destroyed the arrival points at the east and south outposts. Rithwic was the original home of one of the Lugian gem sellers, but he has since moved to Holtburg. Rithwic has portals to Holtburg, Lytelthorpe, and Shoushi. In the center of town there is a portal leading to the once hidden underground town Martine's Retreat.
+		<description>Rithwic is an Aluvian town on the southern end of Lake Blessed where the waters of the River Prosper narrow. It is at a major intersection of roads. The road to the southwest leads to Lytelthorpe. The western road leading north goes to Cragstone. The eastern road leading north goes to Eastham. And the eastern road leading south goes to Dryreach. It was one of the original starter towns until Martine Reopened the arrival points at the east and south outposts. Rithwic was the original home of one of the Lugian gem sellers, but he has since moved to Holtburg. Rithwic has portals to Holtburg, Lytelthorpe, and Shoushi. In the center of town there is a portal leading to the once hidden underground town Martine's Retreat.
 
 Asheron's Call Manual Text
 
@@ -782,7 +782,7 @@ First Settled in 7 P.Y., Rithwic is one of the youngest Aluvian towns. Originall
 		<name>South Rithwic Outpost</name>
 		<type>Outpost</type>
 		<hyperlink>/atlas/surveys/rithwic.php#south</hyperlink>
-		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was destroyed by Martine during The First Strike event.</description>
+		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was Reopened by Martine during The First Strike event.</description>
 		<date_added>2000-02-15 07:01:29</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -795,7 +795,7 @@ First Settled in 7 P.Y., Rithwic is one of the youngest Aluvian towns. Originall
 		<name>East Rithwic Outpost</name>
 		<type>Outpost</type>
 		<hyperlink>/atlas/surveys/rithwic.php#east</hyperlink>
-		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was destroyed by Martine during The First Strike event.</description>
+		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was Reopened by Martine during The First Strike event.</description>
 		<date_added>2000-02-15 07:01:42</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -805,7 +805,7 @@ First Settled in 7 P.Y., Rithwic is one of the youngest Aluvian towns. Originall
 		<id>70</id>
 		<latitude>-10.400</latitude>
 		<longitude>61.400</longitude>
-		<name>East Rithwic Outpost Life Stone</name>
+		<name>Rithwic (E) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:01:42</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -816,7 +816,7 @@ First Settled in 7 P.Y., Rithwic is one of the youngest Aluvian towns. Originall
 		<id>71</id>
 		<latitude>-7.600</latitude>
 		<longitude>58.500</longitude>
-		<name>South Rithwic Outpost Life Stone</name>
+		<name>Rithwic (S) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:01:42</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -874,7 +874,7 @@ These days, the town is not so busy. However, there are still some reasons to vi
 		<id>75</id>
 		<latitude>-18.600</latitude>
 		<longitude>62.800</longitude>
-		<name>North Eastham Life Stone</name>
+		<name>Eastham (N) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_75</imgsrc>
 		<date_added>2000-02-05 22:53:43</date_added>
@@ -889,7 +889,7 @@ These days, the town is not so busy. However, there are still some reasons to vi
 		<name>Abandoned Farm</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_76</imgsrc>
-		<description>It`s unknown if the local Drudges or a nearby camp of Banderlings destroyed this small farm that acted as a rest stop between Arwic and Eastham.</description>
+		<description>It`s unknown if the local Drudges or a nearby camp of Banderlings Reopened this small farm that acted as a rest stop between Arwic and Eastham.</description>
 		<date_added>2000-02-05 22:53:43</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -958,7 +958,7 @@ Be careful, this valley is very dangerous for the inexperienced.</description>
 		<type>Town</type>
 		<description>Arwic, one of the principal cities on Dereth, is strategically located on the edge of the Aluvian lands near the Olthoi infested north.
 
-In the early days, Arwic was a busteling center of commerce, with people coming from all over to trade and talk. Portal storms were not so much frequent, as nearly constant. This all changed in the shadow wars, when Arwic was destroyed by a Shadow Spire. After the attack the residents of the town moved down the roads to the South and West. The gaping crater remained unoccupied for years, until the town was rebuilt newer and stronger from the ruins, laden with walls. However, some the townspeople didn't not move back into the walled city and remain in the buildings outside the town.
+In the early days, Arwic was a busteling center of commerce, with people coming from all over to trade and talk. Portal storms were not so much frequent, as nearly constant. This all changed in the shadow wars, when Arwic was Reopened by a Shadow Spire. After the attack the residents of the town moved down the roads to the South and West. The gaping crater remained unoccupied for years, until the town was rebuilt newer and stronger from the ruins, laden with walls. However, some the townspeople didn't not move back into the walled city and remain in the buildings outside the town.
 
 Nuhmudira planned to make a school in Arwic supposedly in the currently empty villas you see on the east side of town. However, her plans apparently never came to fruition because after many years no school has yet to open and the buildings remain empty.</description>
 		<date_added>2000-02-05 22:53:57</date_added>
@@ -998,7 +998,7 @@ Nuhmudira planned to make a school in Arwic supposedly in the currently empty vi
 		<id>87</id>
 		<latitude>30.300</latitude>
 		<longitude>94.700</longitude>
-		<name>Tou-Tou Bathhouse Life Stone</name>
+		<name>Tou-Tou Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:53:57</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -1084,7 +1084,7 @@ Nuhmudira planned to make a school in Arwic supposedly in the currently empty vi
 		<imgsrc>pics/image_93</imgsrc>
 		<arrival_latitude>-33.300</arrival_latitude>
 		<arrival_longitude>56.600</arrival_longitude>
-		<description>Destroyed Old Portal</description>
+		<description>Reopened Old Portal</description>
 		<date_added>2000-02-05 22:53:57</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>Y</retired>
@@ -1099,7 +1099,7 @@ Nuhmudira planned to make a school in Arwic supposedly in the currently empty vi
 		<imgsrc>pics/image_94</imgsrc>
 		<arrival_latitude>53.900</arrival_latitude>
 		<arrival_longitude>74.300</arrival_longitude>
-		<description>Destroyed Old Portal</description>
+		<description>Reopened Old Portal</description>
 		<date_added>2000-02-05 22:53:57</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>Y</retired>
@@ -1638,7 +1638,7 @@ Final room contains items for both Dagger of Tikola Quest and Asheron's Departur
 		<name>North Yanshi Outpost</name>
 		<type>Outpost</type>
 		<hyperlink>/atlas/surveys/yanshi.php#north</hyperlink>
-		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was destroyed by Martine during The First Strike event.</description>
+		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was Reopened by Martine during The First Strike event.</description>
 		<date_added>2000-02-15 07:01:54</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -1648,7 +1648,7 @@ Final room contains items for both Dagger of Tikola Quest and Asheron's Departur
 		<id>137</id>
 		<latitude>9.900</latitude>
 		<longitude>46.700</longitude>
-		<name>North Yanshi Outpost Life Stone</name>
+		<name>Yanshi (N) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:01:54</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -1698,7 +1698,7 @@ Nanto's Eastern Outpost is just a short distance from the sea and the ocean bree
 		<name>East Nanto Outpost</name>
 		<type>Outpost</type>
 		<hyperlink>/atlas/surveys/nanto.php#east</hyperlink>
-		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was destroyed by Martine during The First Strike event.</description>
+		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was Reopened by Martine during The First Strike event.</description>
 		<date_added>2000-02-15 07:02:11</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -1708,7 +1708,7 @@ Nanto's Eastern Outpost is just a short distance from the sea and the ocean bree
 		<id>141</id>
 		<latitude>52.400</latitude>
 		<longitude>85.400</longitude>
-		<name>East Nanto Outpost Life Stone</name>
+		<name>Nanto (E) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_141</imgsrc>
 		<date_added>2000-02-15 07:02:11</date_added>
@@ -1773,8 +1773,8 @@ Set along the road from Nanto to Mayoi, these merchants sell various wares.  Mos
 	<location>
 		<id>146</id>
 		<latitude>61.500</latitude>
-		<longitude>80.100</longitude>
-		<name>Mayoi Life Stone (West)</name>
+		<longitude>80.000</longitude>
+		<name>Mayoi (W) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:56:42</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -1824,7 +1824,7 @@ Naturally, such a remote location should have a plethora of interesting quests i
 		<id>151</id>
 		<latitude>47.300</latitude>
 		<longitude>26.500</longitude>
-		<name>Khayyaban Life Stone (East)</name>
+		<name>Khayyaban (E) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_151</imgsrc>
 		<description>Thanks to Elegy of Solclaim for an updated picture!</description>
@@ -1837,7 +1837,7 @@ Naturally, such a remote location should have a plethora of interesting quests i
 		<id>152</id>
 		<latitude>20.600</latitude>
 		<longitude>44.300</longitude>
-		<name>Roadside Life Stone (Yanshi S)</name>
+		<name>Yanshi (S) Roadside Life Stone</name>
 		<type>Lifestone</type>
 		<description>This lifestone is on the road from Yanshi to Sawato.</description>
 		<date_added>2000-02-05 22:56:52</date_added>
@@ -1852,7 +1852,7 @@ Naturally, such a remote location should have a plethora of interesting quests i
 		<name>Shattered Dryreach Life Stone</name>
 		<type>Landmark</type>
 		<imgsrc>pics/loc154</imgsrc>
-		<description>This lifestone appears to have been purposely destroyed by the besieging tumeroks. A tumerok worker can often be seen nearby surveying their handywork.</description>
+		<description>This lifestone appears to have been purposely Reopened by the besieging tumeroks. A tumerok worker can often be seen nearby surveying their handywork.</description>
 		<date_added>2000-02-05 22:56:52</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -1892,9 +1892,9 @@ Until recently, the only way to get to Dryreach was to run. Now there is a porta
 		<name>Tufa</name>
 		<type>Town</type>
 		<imgsrc>pics/image_157</imgsrc>
-		<description>Tufa is a Gharu'ndim town just northeast of Yaraq. In the Twilight's Gleaming patch Tufa was destroyed by Shadow Spires. The true target was not the town itself but rather the Menhir Ring that the town had been unknowingly built on top of. While the town was drastically altered and all of the actual building were reduced to rubble the townspeople remain in Tufa living in tents around the edge of and inside the crater made by the attack. 
+		<description>Tufa is a Gharu'ndim town just northeast of Yaraq. In the Twilight's Gleaming patch Tufa was Reopened by Shadow Spires. The true target was not the town itself but rather the Menhir Ring that the town had been unknowingly built on top of. While the town was drastically altered and all of the actual building were reduced to rubble the townspeople remain in Tufa living in tents around the edge of and inside the crater made by the attack. 
 
-While Ferah and Ler Rhan's Thorns attacked Cragstone and Arwic, drawing the attentions of the defenders, the elder Shadows destroyed a long-buried circle of standing stones beneath the oasis of Tufa.
+While Ferah and Ler Rhan's Thorns attacked Cragstone and Arwic, drawing the attentions of the defenders, the elder Shadows Reopened a long-buried circle of standing stones beneath the oasis of Tufa.
 
 Gondibyr Langarl's sloe-eyes tightened in rage, and he seemed to acquire more than his usual stature. I did not like the way the shadows fell upon his face in the guttering light of his firebrand. He opened his mouth to rebut, but Kei spoke quietly. Sir? She did not move or look up from her meditation. The white mage turned his tired eyes to her. Tufa was also attacked, my lord, she said. It was destroyed.</description>
 		<date_added>2000-02-05 22:57:32</date_added>
@@ -1965,7 +1965,7 @@ The Lady Folthid and her servant Felscuda attempt to survive in this remote wild
 		<id>163</id>
 		<latitude>8.700</latitude>
 		<longitude>53.800</longitude>
-		<name>Folthid Life Stone</name>
+		<name>Folthid Cellar Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_163</imgsrc>
 		<description>This lifestone is on the estate of Lady Folthid.</description>
@@ -1978,7 +1978,7 @@ The Lady Folthid and her servant Felscuda attempt to survive in this remote wild
 		<id>164</id>
 		<latitude>73.300</latitude>
 		<longitude>18.100</longitude>
-		<name>Qalaba'r Life Stone (NW)</name>
+		<name>Qalaba'r (NW) Life Stone</name>
 		<type>Lifestone</type>
 		<description>Sits right next to the portal to Hebian-to.</description>
 		<date_added>2000-02-05 22:57:44</date_added>
@@ -2155,7 +2155,7 @@ Old starter-quest dungeon still populated with Drudges and is host to Inuo-Kon K
 		<name>North Nanto Outpost</name>
 		<type>Outpost</type>
 		<hyperlink>/atlas/surveys/nanto.php#north</hyperlink>
-		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was destroyed by Martine during The First Strike event.</description>
+		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was Reopened by Martine during The First Strike event.</description>
 		<date_added>2000-02-15 07:02:23</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -2163,9 +2163,9 @@ Old starter-quest dungeon still populated with Drudges and is host to Inuo-Kon K
 	</location>
 	<location>
 		<id>177</id>
-		<latitude>49.100</latitude>
+		<latitude>49.000</latitude>
 		<longitude>81.600</longitude>
-		<name>North Nanto Outpost Life Stone</name>
+		<name>Nanto (N) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_177</imgsrc>
 		<date_added>2000-02-15 07:02:23</date_added>
@@ -2282,8 +2282,8 @@ Just North Of Arwic.</description>
 	<location>
 		<id>187</id>
 		<latitude>50.500</latitude>
-		<longitude>59.900</longitude>
-		<name>Baishi Life Stone (West)</name>
+		<longitude>59.800</longitude>
+		<name>Baishi (West) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:02:23</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -2294,7 +2294,7 @@ Just North Of Arwic.</description>
 		<id>188</id>
 		<latitude>57.400</latitude>
 		<longitude>55.100</longitude>
-		<name>Wilderness Life Stone</name>
+		<name>Trialos Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:02:23</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -2347,7 +2347,7 @@ It holds a Sturdy Iron Chest, and an unlocked chest with at that time, interesti
 	</location>
 	<location>
 		<id>192</id>
-		<latitude>66.100</latitude>
+		<latitude>66.400</latitude>
 		<longitude>60.100</longitude>
 		<name>High Mountain Valley to Mayoi</name>
 		<type>Town Portal</type>
@@ -2419,7 +2419,7 @@ It holds a Sturdy Iron Chest, and an unlocked chest with at that time, interesti
 		<id>200</id>
 		<latitude>-32.500</latitude>
 		<longitude>55.100</longitude>
-		<name>West Arwic Life Stone</name>
+		<name>Arwic (W) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_200</imgsrc>
 		<description>Drudges and Shreth's seem to be remain rather close to this lifestone. So be prepared for them.</description>
@@ -2432,7 +2432,7 @@ It holds a Sturdy Iron Chest, and an unlocked chest with at that time, interesti
 		<id>201</id>
 		<latitude>-33.900</latitude>
 		<longitude>58.200</longitude>
-		<name>East Arwic Life Stone</name>
+		<name>Arwic (E) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_201</imgsrc>
 		<description>On a hill near Arwic.  Drudges camp nearby and the occasional Gnawer Shreth will wander close.</description>
@@ -3914,8 +3914,8 @@ The Alloy Cylinder that is used in the Undead Mechanic is found at the end of th
 	<location>
 		<id>304</id>
 		<latitude>-68.500</latitude>
-		<longitude>-21.100</longitude>
-		<name>Stonehold Life Stone (SE)</name>
+		<longitude>-21.000</longitude>
+		<name>Stonehold (SE) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_304</imgsrc>
 		<date_added>2000-02-05 22:58:10</date_added>
@@ -4224,7 +4224,7 @@ The Worn Plain Key that is needed for the Sword of Lost Light Quest is found on 
 		<id>322</id>
 		<latitude>40.700</latitude>
 		<longitude>84.900</longitude>
-		<name>Hebian-to Life Stone (SE)</name>
+		<name>Hebian-To (SE) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc322</imgsrc>
 		<date_added>2000-02-05 22:58:10</date_added>
@@ -4327,7 +4327,7 @@ After collecting and using quite a few keys, the Green Mire Yari and the Green M
 		<id>330</id>
 		<latitude>-42.000</latitude>
 		<longitude>34.900</longitude>
-		<name>Holtburg Life Stone (SE)</name>
+		<name>Holtburg (SE) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc330</imgsrc>
 		<description>Located off the road, just east of Holtburg.</description>
@@ -4364,7 +4364,7 @@ After collecting and using quite a few keys, the Green Mire Yari and the Green M
 		<id>333</id>
 		<latitude>-7.100</latitude>
 		<longitude>3.000</longitude>
-		<name>Al-Jalima Life Stone (Armorer)</name>
+		<name>Al-Jalima (West) Life Stone </name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_333</imgsrc>
 		<date_added>2000-02-05 22:58:10</date_added>
@@ -4388,7 +4388,7 @@ After collecting and using quite a few keys, the Green Mire Yari and the Green M
 		<id>335</id>
 		<latitude>-17.800</latitude>
 		<longitude>64.300</longitude>
-		<name>East Eastham Life Stone</name>
+		<name>Eastham (E) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:10</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -4399,7 +4399,7 @@ After collecting and using quite a few keys, the Green Mire Yari and the Green M
 		<id>337</id>
 		<latitude>25.700</latitude>
 		<longitude>74.800</longitude>
-		<name>Life Stone (Shoushi N)</name>
+		<name>Shoushi (N) Life Stone </name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc337</imgsrc>
 		<date_added>2000-02-05 22:58:10</date_added>
@@ -4473,9 +4473,9 @@ After collecting and using quite a few keys, the Green Mire Yari and the Green M
 	</location>
 	<location>
 		<id>343</id>
-		<latitude>39.200</latitude>
+		<latitude>39.100</latitude>
 		<longitude>81.600</longitude>
-		<name>Hebian-to Library Life Stone</name>
+		<name>Hebian-To Library Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc343</imgsrc>
 		<date_added>2000-02-05 22:58:10</date_added>
@@ -4515,7 +4515,7 @@ These stones mark the crossroads near Zaikhal.</description>
 		<id>346</id>
 		<latitude>-15.800</latitude>
 		<longitude>2.100</longitude>
-		<name>Roadside Life Stone (Zaikhal NE)</name>
+		<name>Zaikhal (NE) Roadside Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc346</imgsrc>
 		<date_added>2000-02-05 22:58:10</date_added>
@@ -4706,7 +4706,7 @@ At the end of the dungeon is a portal to the Deeper Catacombs (Crater Lair) (Res
 		<id>364</id>
 		<latitude>-24.700</latitude>
 		<longitude>49.400</longitude>
-		<name>Cragstone Life Stone (South Beach)</name>
+		<name>Cragstone (S Beach) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc364</imgsrc>
 		<description>At least you return to life with sand between your toes and the surf in your ears!</description>
@@ -4744,7 +4744,7 @@ At the end of the dungeon is a portal to the Deeper Catacombs (Crater Lair) (Res
 		<id>367</id>
 		<latitude>72.700</latitude>
 		<longitude>15.100</longitude>
-		<name>Tower Life Stone</name>
+		<name>Qalaba'r (NW) Tower Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_367</imgsrc>
 		<date_added>2000-02-05 22:58:10</date_added>
@@ -4812,7 +4812,7 @@ At the end of the dungeon is a portal to the Deeper Catacombs (Crater Lair) (Res
 		<id>373</id>
 		<latitude>73.200</latitude>
 		<longitude>20.300</longitude>
-		<name>Qalaba'r Life Stone (NE)</name>
+		<name>Qalaba'r (NE) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:10</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -4823,7 +4823,7 @@ At the end of the dungeon is a portal to the Deeper Catacombs (Crater Lair) (Res
 		<id>374</id>
 		<latitude>75.800</latitude>
 		<longitude>21.200</longitude>
-		<name>Qalaba'r Life Stone (SE)</name>
+		<name>Qalaba'r (SE) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:10</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -4857,7 +4857,7 @@ At the end of the dungeon is a portal to the Deeper Catacombs (Crater Lair) (Res
 		<id>377</id>
 		<latitude>-13.500</latitude>
 		<longitude>1.500</longitude>
-		<name>Zaikhal Life Stone (East)</name>
+		<name>Zaikhal (E) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:10</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -4920,8 +4920,8 @@ The Alloy Dynamo that is used in the Undead Mechanic is found in a secret corrid
 	<location>
 		<id>382</id>
 		<latitude>-1.100</latitude>
-		<longitude>48.300</longitude>
-		<name>West Lytelthorpe Outpost Life Stone</name>
+		<longitude>48.400</longitude>
+		<name>Lytelthorpe (W) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:10</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -4932,7 +4932,7 @@ The Alloy Dynamo that is used in the Undead Mechanic is found in a secret corrid
 		<id>383</id>
 		<latitude>-1.000</latitude>
 		<longitude>54.100</longitude>
-		<name>East Lytelthorpe Outpost Life Stone</name>
+		<name>Lytelthorpe (E) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_383</imgsrc>
 		<date_added>2000-02-05 22:58:10</date_added>
@@ -4944,7 +4944,7 @@ The Alloy Dynamo that is used in the Undead Mechanic is found in a secret corrid
 		<id>384</id>
 		<latitude>-2.300</latitude>
 		<longitude>51.700</longitude>
-		<name>Lytelthorpe Life Stone (N)</name>
+		<name>Lytelthorpe (N) Life Stone</name>
 		<type>Lifestone</type>
 		<description>Located on a hill just northeast of the castle.</description>
 		<date_added>2000-02-05 22:58:10</date_added>
@@ -4992,7 +4992,7 @@ The first level is infested with shreths, while decending you may find an assort
 		<name>West Lytelthorpe Outpost</name>
 		<type>Outpost</type>
 		<hyperlink>/atlas/surveys/lytelthorpe.php#west</hyperlink>
-		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was destroyed by Martine during The First Strike event.</description>
+		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was Reopened by Martine during The First Strike event.</description>
 		<date_added>2000-02-15 07:02:47</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -5005,7 +5005,7 @@ The first level is infested with shreths, while decending you may find an assort
 		<name>East Lytelthorpe Outpost</name>
 		<type>Outpost</type>
 		<hyperlink>/atlas/surveys/lytelthorpe.php#east</hyperlink>
-		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was destroyed by Martine during The First Strike event.
+		<description>One of the old starter outposts where new arrivals to Dereth would appear. It was Reopened by Martine during The First Strike event.
 This outpost has a long row of Empyrean Pillars that lead to the nearby Forgotten Temple.</description>
 		<date_added>2000-02-15 07:03:02</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5054,7 +5054,7 @@ This outpost has a long row of Empyrean Pillars that lead to the nearby Forgotte
 		<id>394</id>
 		<latitude>-44.400</latitude>
 		<longitude>-41.600</longitude>
-		<name>Plateau Village Life Stone (East)</name>
+		<name>Plateau Village (E) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:02</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5105,7 +5105,7 @@ This outpost has a long row of Empyrean Pillars that lead to the nearby Forgotte
 		<id>398</id>
 		<latitude>-56.800</latitude>
 		<longitude>12.900</longitude>
-		<name>Life Stone (Crater S)</name>
+		<name>Crater Village (S) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc398</imgsrc>
 		<date_added>2000-02-15 07:03:02</date_added>
@@ -5165,7 +5165,7 @@ Contains mostly Banderling Ravers. Total dungeon only has about 15 banderlings a
 		<id>402</id>
 		<latitude>86.900</latitude>
 		<longitude>0.700</longitude>
-		<name>Life Stone (Enlightenment)</name>
+		<name>Landbridge (S) Beach Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:02</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5189,7 +5189,7 @@ Contains mostly Banderling Ravers. Total dungeon only has about 15 banderlings a
 		<id>404</id>
 		<latitude>84.300</latitude>
 		<longitude>33.700</longitude>
-		<name>Life Stone (Kara West)</name>
+		<name>Kara (W) Farmer Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:02</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5239,7 +5239,7 @@ Contains mostly Banderling Ravers. Total dungeon only has about 15 banderlings a
 		<id>411</id>
 		<latitude>28.600</latitude>
 		<longitude>78.300</longitude>
-		<name>Life Stone (Advocate)</name>
+		<name>Advocate Ruins Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:02</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5293,7 +5293,7 @@ Behind the Festival stone is a Meeting Hall Style Building at 33.8S, 76.4E with 
 		<id>416</id>
 		<latitude>33.700</latitude>
 		<longitude>79.900</longitude>
-		<name>Archmage Life Stone</name>
+		<name>Fort Aimaru Life Stone</name>
 		<type>Lifestone</type>
 		<description>Being out alone in the wilderness, the archmage next door might be using this stone a lot...</description>
 		<date_added>2000-02-15 07:03:02</date_added>
@@ -5347,7 +5347,7 @@ For many years it was very difficult to reach do to lack of portal access. Recen
 		<id>420</id>
 		<latitude>83.000</latitude>
 		<longitude>46.000</longitude>
-		<name>Kara Life Stone (West)</name>
+		<name>Kara (W) Lake Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc420</imgsrc>
 		<date_added>2000-02-05 22:58:37</date_added>
@@ -5399,7 +5399,7 @@ For many years it was very difficult to reach do to lack of portal access. Recen
 		<id>425</id>
 		<latitude>-0.100</latitude>
 		<longitude>16.300</longitude>
-		<name>Northwest Samsur Outpost Life Stone</name>
+		<name>Samsur (NW) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc425</imgsrc>
 		<date_added>2000-02-05 22:58:37</date_added>
@@ -5411,7 +5411,7 @@ For many years it was very difficult to reach do to lack of portal access. Recen
 		<id>426</id>
 		<latitude>3.100</latitude>
 		<longitude>22.200</longitude>
-		<name>East Samsur Outpost Life Stone</name>
+		<name>Samsur (E) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc426</imgsrc>
 		<date_added>2000-02-05 22:58:37</date_added>
@@ -5423,7 +5423,7 @@ For many years it was very difficult to reach do to lack of portal access. Recen
 		<id>427</id>
 		<latitude>-60.900</latitude>
 		<longitude>16.600</longitude>
-		<name>Life Stone (Crater SE)</name>
+		<name>Crater Village (SE) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:37</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5564,7 +5564,7 @@ An academy for mages once run by Lord Rytheran and Lady Jaera. Lord Rytheran has
 		<latitude>-20.900</latitude>
 		<longitude>25.900</longitude>
 		<restrictions>12+</restrictions>
-		<name>Glenden Wood to the North Direlands</name>
+		<name>Glenden Wood to North Direlands</name>
 		<type>Wilderness Portal</type>
 		<arrival_latitude>-24.300</arrival_latitude>
 		<arrival_longitude>-53.800</arrival_longitude>
@@ -5578,7 +5578,7 @@ An academy for mages once run by Lord Rytheran and Lady Jaera. Lord Rytheran has
 		<id>439</id>
 		<latitude>48.100</latitude>
 		<longitude>23.200</longitude>
-		<name>Khayyaban Life Stone (SW)</name>
+		<name>Khayyaban (SW) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_439</imgsrc>
 		<description>Location submitted by Hin Lijai. Thanks!  Thanks to Elegy of Solclaim for an updated picture!</description>
@@ -5591,7 +5591,7 @@ An academy for mages once run by Lord Rytheran and Lady Jaera. Lord Rytheran has
 		<id>440</id>
 		<latitude>-65.400</latitude>
 		<longitude>49.000</longitude>
-		<name>Bandit Castle Life Stone (SW)</name>
+		<name>Bandit Castle (SW) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_440</imgsrc>
 		<description>Location submitted by Ryan Idol. Thanks!</description>
@@ -5643,7 +5643,7 @@ An academy for mages once run by Lord Rytheran and Lady Jaera. Lord Rytheran has
 		<id>445</id>
 		<latitude>-23.300</latitude>
 		<longitude>56.200</longitude>
-		<name>Lakeside Life Stone</name>
+		<name>Isle of Tears Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_445</imgsrc>
 		<date_added>2000-02-05 22:58:37</date_added>
@@ -5653,9 +5653,9 @@ An academy for mages once run by Lord Rytheran and Lady Jaera. Lord Rytheran has
 	</location>
 	<location>
 		<id>446</id>
-		<latitude>67.400</latitude>
+		<latitude>67.300</latitude>
 		<longitude>28.300</longitude>
-		<name>Life Stone (Mount Ingot base)</name>
+		<name>Frost Haven Life Stone </name>
 		<type>Lifestone</type>
 		<description>A lifestone located near a small temple and bunker housing a healer and a peddler.</description>
 		<date_added>2000-02-05 22:58:37</date_added>
@@ -5748,7 +5748,7 @@ An academy for mages once run by Lord Rytheran and Lady Jaera. Lord Rytheran has
 		<id>453</id>
 		<latitude>-29.900</latitude>
 		<longitude>25.900</longitude>
-		<name>Glenden Wood Life Stone (West Outpost)</name>
+		<name>Glenden Wood (W) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:37</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5759,7 +5759,7 @@ An academy for mages once run by Lord Rytheran and Lady Jaera. Lord Rytheran has
 		<id>454</id>
 		<latitude>25.800</latitude>
 		<longitude>57.800</longitude>
-		<name>Sawato Swamp Life Stone</name>
+		<name>Sawato (N) Swamp Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc454</imgsrc>
 		<description>A bit Northwest of Sawato in the swamp. Bring high boots...</description>
@@ -5867,7 +5867,7 @@ A Dark Note and part of the Staff of the Nomads can be found in this dungeon.</d
 		<id>464</id>
 		<latitude>-9.000</latitude>
 		<longitude>43.400</longitude>
-		<name>Life Stone (Greelving)</name>
+		<name>Greelving Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:37</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5878,7 +5878,7 @@ A Dark Note and part of the Staff of the Nomads can be found in this dungeon.</d
 		<id>467</id>
 		<latitude>25.700</latitude>
 		<longitude>29.900</longitude>
-		<name>Uziz East Life Stone</name>
+		<name>Uziz (E) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc467</imgsrc>
 		<date_added>2000-02-05 22:58:37</date_added>
@@ -5890,7 +5890,7 @@ A Dark Note and part of the Staff of the Nomads can be found in this dungeon.</d
 		<id>468</id>
 		<latitude>25.900</latitude>
 		<longitude>26.600</longitude>
-		<name>Uziz West Life Stone</name>
+		<name>Uziz (W) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc468</imgsrc>
 		<date_added>2000-02-05 22:58:37</date_added>
@@ -5901,8 +5901,8 @@ A Dark Note and part of the Staff of the Nomads can be found in this dungeon.</d
 	<location>
 		<id>469</id>
 		<latitude>-27.400</latitude>
-		<longitude>63.700</longitude>
-		<name>Life Stone (Arwic SE)</name>
+		<longitude>63.800</longitude>
+		<name>Arwic (SE) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:37</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5913,7 +5913,7 @@ A Dark Note and part of the Staff of the Nomads can be found in this dungeon.</d
 		<id>470</id>
 		<latitude>-40.800</latitude>
 		<longitude>-18.700</longitude>
-		<name>Life Stone (Mike Bunker)</name>
+		<name>Mike Bunker Life Stone </name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:37</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5924,7 +5924,7 @@ A Dark Note and part of the Staff of the Nomads can be found in this dungeon.</d
 		<id>471</id>
 		<latitude>-71.500</latitude>
 		<longitude>-29.800</longitude>
-		<name>Life Stone (Renegade)</name>
+		<name>Stonehold (Renegade) Life Stone </name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:37</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5970,7 +5970,7 @@ A Dark Note and part of the Staff of the Nomads can be found in this dungeon.</d
 		<id>476</id>
 		<latitude>88.300</latitude>
 		<longitude>-64.500</longitude>
-		<name>Life Stone (Candeth Keep EE)</name>
+		<name>Candeth Keep (E) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:37</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -5993,7 +5993,7 @@ A Dark Note and part of the Staff of the Nomads can be found in this dungeon.</d
 		<id>481</id>
 		<latitude>-66.600</latitude>
 		<longitude>-26.400</longitude>
-		<name>Life Stone (Stonehold SW)</name>
+		<name>Stonehold (SW) Life Stone </name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_481</imgsrc>
 		<date_added>2000-02-05 22:58:37</date_added>
@@ -6005,7 +6005,7 @@ A Dark Note and part of the Staff of the Nomads can be found in this dungeon.</d
 		<id>484</id>
 		<latitude>12.800</latitude>
 		<longitude>45.100</longitude>
-		<name>Yanshi Life Stone (East)</name>
+		<name>Yanshi (E) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-05 22:58:37</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -6116,7 +6116,7 @@ Nothing particularly interesting nearby.</description>
 		<id>494</id>
 		<latitude>-4.400</latitude>
 		<longitude>35.500</longitude>
-		<name>Adventurer`s Haven to Town Network (Samsur)</name>
+		<name>Adventurer's Haven to Town Network</name>
 		<type>Underground Portal</type>
 		<imgsrc>pics/image_494</imgsrc>
 		<description>This portal goes to Town Network Portal Hub</description>
@@ -6129,7 +6129,7 @@ Nothing particularly interesting nearby.</description>
 		<id>495</id>
 		<latitude>-4.400</latitude>
 		<longitude>35.500</longitude>
-		<name>Adventurer`s Haven to Yanshi</name>
+		<name>Adventurer's Haven to Yanshi</name>
 		<type>Underground Portal</type>
 		<imgsrc>pics/image_495</imgsrc>
 		<arrival_latitude>10.700</arrival_latitude>
@@ -6144,7 +6144,7 @@ Nothing particularly interesting nearby.</description>
 		<id>496</id>
 		<latitude>-4.400</latitude>
 		<longitude>35.500</longitude>
-		<name>Adventurer`s Haven to Lytelthorpe</name>
+		<name>Adventurer's Haven to Lytelthorpe</name>
 		<type>Underground Portal</type>
 		<imgsrc>pics/image_496</imgsrc>
 		<arrival_latitude>-1.100</arrival_latitude>
@@ -6331,7 +6331,7 @@ Image submitted by Katie M. Thanks!</description>
 		<id>510</id>
 		<latitude>15.600</latitude>
 		<longitude>46.500</longitude>
-		<name>South Yanshi Outpost Life Stone</name>
+		<name>Yanshi (S) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:24</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -6493,7 +6493,7 @@ Four of our best warriors entered the tunnels with the hope of finding the lost 
 
 It took days before the warrior was well enough to speak. When his fever had finally broke, he told us what had happened in the tunnels below. There were no rooms glittering with treasure. No lost relics from a past civilization. The warrior spoke only of men who death had touched but had not taken. He spoke of rotted and fleshless men who had taken up arms in the name of something unearthly. 
 
-The decision soon came down from the town council. We were to abandon the mine and lock the entrance. The very thing that once sustained our town had destroyed us. It placed a pox upon everyone and everything. Our town coffers dried up, our crops died, and over time even the most stubborn person left town. Only I remain to tell this story and to warn others from entering the Mines of Despair.
+The decision soon came down from the town council. We were to abandon the mine and lock the entrance. The very thing that once sustained our town had Reopened us. It placed a pox upon everyone and everything. Our town coffers dried up, our crops died, and over time even the most stubborn person left town. Only I remain to tell this story and to warn others from entering the Mines of Despair.
 
 -- Le-Ai Rea 
 
@@ -6508,7 +6508,7 @@ Location submitted by Arjin of Morningthaw. Thanks!</description>
 		<id>524</id>
 		<latitude>4.400</latitude>
 		<longitude>23.500</longitude>
-		<name>Merchant Life Stone</name>
+		<name>Samsur (SE) Merchant Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc524</imgsrc>
 		<date_added>2000-02-15 07:03:24</date_added>
@@ -6561,7 +6561,7 @@ Location submitted by Arjin of Morningthaw. Thanks!</description>
 		<name>Drudge Camp (Samsur)</name>
 		<type>Landmark</type>
 		<imgsrc>pics/loc528</imgsrc>
-		<description>Just two tents and the remains of a destroyed lifestone, now home to some drudges and rats.</description>
+		<description>Just two tents and the remains of a Reopened lifestone, now home to some drudges and rats.</description>
 		<date_added>2000-02-15 07:03:24</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -6621,7 +6621,7 @@ Location submitted by Arjin of Morningthaw. Thanks!</description>
 		<id>533</id>
 		<latitude>-24.400</latitude>
 		<longitude>48.300</longitude>
-		<name>Cragstone Life Stone (SW)</name>
+		<name>Cragstone (SW) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:24</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -6807,7 +6807,7 @@ Guinevere Du Avalon TD 11-11-2009</description>
 		<id>553</id>
 		<latitude>61.600</latitude>
 		<longitude>83.300</longitude>
-		<name>Mayoi Beach Life Stone</name>
+		<name>Mayoi (E) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:24</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -6816,9 +6816,9 @@ Guinevere Du Avalon TD 11-11-2009</description>
 	</location>
 	<location>
 		<id>554</id>
-		<latitude>5.500</latitude>
+		<latitude>5.600</latitude>
 		<longitude>19.900</longitude>
-		<name>Binar Life Stone</name>
+		<name>Samsur (S) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc554</imgsrc>
 		<date_added>2000-02-15 07:03:24</date_added>
@@ -6900,7 +6900,7 @@ Master Shoyanen Kenchu the Archmage tells you, "This purchase favors you, friend
 		<id>560</id>
 		<latitude>-3.900</latitude>
 		<longitude>70.500</longitude>
-		<name>Life Stone (Rithwic SE)</name>
+		<name>Rithwic (SE) Life Stone </name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc560</imgsrc>
 		<date_added>2000-02-15 07:03:55</date_added>
@@ -7013,7 +7013,7 @@ Master Shoyanen Kenchu the Archmage tells you, "This purchase favors you, friend
 	<location>
 		<id>570</id>
 		<latitude>31.500</latitude>
-		<longitude>37.000</longitude>
+		<longitude>37.100</longitude>
 		<name>Desert Archmage Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc570</imgsrc>
@@ -7038,7 +7038,7 @@ Master Shoyanen Kenchu the Archmage tells you, "This purchase favors you, friend
 		<id>572</id>
 		<latitude>31.400</latitude>
 		<longitude>37.000</longitude>
-		<name>Desert Archmage to the Heartland</name>
+		<name>Desert Archmage to Heartland</name>
 		<type>Wilderness Portal</type>
 		<imgsrc>pics/loc572</imgsrc>
 		<arrival_latitude>-22.600</arrival_latitude>
@@ -7105,7 +7105,7 @@ Master Shoyanen Kenchu the Archmage tells you, "This purchase favors you, friend
 		<id>577</id>
 		<latitude>14.300</latitude>
 		<longitude>7.000</longitude>
-		<name>Tufa East Life Stone</name>
+		<name>Tufa (E) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7116,7 +7116,7 @@ Master Shoyanen Kenchu the Archmage tells you, "This purchase favors you, friend
 		<id>578</id>
 		<latitude>14.300</latitude>
 		<longitude>3.700</longitude>
-		<name>Tufa West Life Stone</name>
+		<name>Tufa (W) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7267,7 +7267,7 @@ I am a humble scholar from Zaikhal. Of late, we have heard of the unusually larg
 		<id>590</id>
 		<latitude>32.500</latitude>
 		<longitude>15.900</longitude>
-		<name>Desert Life Stone</name>
+		<name>Al-Araqa (SE) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7302,7 +7302,7 @@ I am a humble scholar from Zaikhal. Of late, we have heard of the unusually larg
 		<id>593</id>
 		<latitude>4.300</latitude>
 		<longitude>15.900</longitude>
-		<name>Roadside Life Stone (Samsur SW)</name>
+		<name>Samsur (SW) Roadside Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc593</imgsrc>
 		<date_added>2000-02-15 07:03:55</date_added>
@@ -7411,9 +7411,9 @@ I am a humble scholar from Zaikhal. Of late, we have heard of the unusually larg
 	</location>
 	<location>
 		<id>603</id>
-		<latitude>24.200</latitude>
+		<latitude>24.100</latitude>
 		<longitude>27.400</longitude>
-		<name>Uziz Hilltop Life Stone</name>
+		<name>Uziz (N) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7490,7 +7490,7 @@ It is rumored that the Skelton Lord who lives deep within carries a ruby that pr
 		<id>609</id>
 		<latitude>-23.200</latitude>
 		<longitude>44.000</longitude>
-		<name>Peddler Life Stone (Cragstone)</name>
+		<name>Cragstone Peddler Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7580,7 +7580,7 @@ At some point after that, a tribe of banderlings took up residence, thus making 
 		<id>618</id>
 		<latitude>-44.400</latitude>
 		<longitude>-43.500</longitude>
-		<name>Portal to Plateau Base</name>
+		<name>Plateau Village to Plateau Base</name>
 		<type>Wilderness Portal</type>
 		<arrival_latitude>-45.300</arrival_latitude>
 		<arrival_longitude>-44.300</arrival_longitude>
@@ -7700,7 +7700,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>628</id>
 		<latitude>31.300</latitude>
 		<longitude>3.600</longitude>
-		<name>Al-Jalima Beach Life Stone</name>
+		<name>Al-Arqas Beach Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7722,7 +7722,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>630</id>
 		<latitude>-35.000</latitude>
 		<longitude>-17.800</longitude>
-		<name>Bluff Life Stone</name>
+		<name>Bluff Fort Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7733,7 +7733,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>631</id>
 		<latitude>43.600</latitude>
 		<longitude>-83.000</longitude>
-		<name>Life Stone (Direlands West)</name>
+		<name>Tumerok Fort (Dires W) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7744,7 +7744,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>632</id>
 		<latitude>82.300</latitude>
 		<longitude>-34.300</longitude>
-		<name>Life Stone (Landbridge SE)</name>
+		<name>Landbridge SE Life Stone </name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7755,7 +7755,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>633</id>
 		<latitude>49.900</latitude>
 		<longitude>-53.700</longitude>
-		<name>Platform Life Stone</name>
+		<name>Knath Lair Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7777,8 +7777,8 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 	<location>
 		<id>635</id>
 		<latitude>87.600</latitude>
-		<longitude>-12.200</longitude>
-		<name>Life Stone (Acolyte Towers)</name>
+		<longitude>-12.300</longitude>
+		<name>Acolyte Towers Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7789,7 +7789,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>636</id>
 		<latitude>82.200</latitude>
 		<longitude>-36.500</longitude>
-		<name>Life Stone (Landbridge SW)</name>
+		<name>Landbridge SW Life Stone </name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7800,7 +7800,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>637</id>
 		<latitude>-4.200</latitude>
 		<longitude>-63.900</longitude>
-		<name>Life Stone (Fort Tethana NE)</name>
+		<name>Fort Tethana (NE) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7823,7 +7823,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>639</id>
 		<latitude>-40.900</latitude>
 		<longitude>44.200</longitude>
-		<name>Life Stone (Holtburg E)</name>
+		<name>Holtburg (E) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7833,7 +7833,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 	<location>
 		<id>640</id>
 		<latitude>-75.500</latitude>
-		<longitude>10.500</longitude>
+		<longitude>10.400</longitude>
 		<name>Crater Lair Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
@@ -7843,7 +7843,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 	</location>
 	<location>
 		<id>641</id>
-		<latitude>-70.500</latitude>
+		<latitude>-70.400</latitude>
 		<longitude>-17.300</longitude>
 		<name>Igloo Life Stone</name>
 		<type>Lifestone</type>
@@ -7856,8 +7856,8 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 	<location>
 		<id>642</id>
 		<latitude>12.900</latitude>
-		<longitude>5.900</longitude>
-		<name>Tufa North Life Stone</name>
+		<longitude>5.800</longitude>
+		<name>Tufa (N) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7868,7 +7868,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>643</id>
 		<latitude>-14.100</latitude>
 		<longitude>-1.300</longitude>
-		<name>Zaikhal Life Stone (West)</name>
+		<name>Zaikhal (W) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7879,7 +7879,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>644</id>
 		<latitude>-37.700</latitude>
 		<longitude>-1.300</longitude>
-		<name>Life Stone (Lanadryll)</name>
+		<name>Lanadryll Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7901,7 +7901,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>646</id>
 		<latitude>5.000</latitude>
 		<longitude>58.300</longitude>
-		<name>Life Stone (Yanshi NE)</name>
+		<name>Yanshi (NE) Life Stone </name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7912,7 +7912,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>647</id>
 		<latitude>84.200</latitude>
 		<longitude>-48.800</longitude>
-		<name>Life Stone (South Direlands)</name>
+		<name>South Direlands Life Stone </name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7923,7 +7923,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>648</id>
 		<latitude>18.100</latitude>
 		<longitude>-56.900</longitude>
-		<name>Life Stone (Chalicmere)</name>
+		<name>Chalicmere Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7946,7 +7946,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>650</id>
 		<latitude>-69.100</latitude>
 		<longitude>-51.700</longitude>
-		<name>Life Stone (NW Shore)</name>
+		<name>Northwest Beach Life Stone </name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7969,7 +7969,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>654</id>
 		<latitude>63.100</latitude>
 		<longitude>82.500</longitude>
-		<name>Mayoi Hills Life Stone</name>
+		<name>Mayoi (S) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -7978,9 +7978,9 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 	</location>
 	<location>
 		<id>655</id>
-		<latitude>34.900</latitude>
+		<latitude>34.800</latitude>
 		<longitude>60.500</longitude>
-		<name>Life Stone (Sawato S)</name>
+		<name>Sawato (S) Life Stone </name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc655</imgsrc>
 		<date_added>2000-02-15 07:03:55</date_added>
@@ -7992,7 +7992,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>656</id>
 		<latitude>71.000</latitude>
 		<longitude>52.400</longitude>
-		<name>Life Stone (Kara NE)</name>
+		<name>Kara (NE) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -8003,7 +8003,7 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 		<id>657</id>
 		<latitude>-70.400</latitude>
 		<longitude>-34.500</longitude>
-		<name>Butte Life Stone</name>
+		<name>Stonehold (W) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_657</imgsrc>
 		<date_added>2000-02-15 07:03:55</date_added>
@@ -8014,21 +8014,10 @@ Thanks to Tamera of Frostfell for this location's details!</description>
 	<location>
 		<id>658</id>
 		<latitude>78.700</latitude>
-		<longitude>48.700</longitude>
-		<name>Abandoned Tower Life Stone</name>
+		<longitude>48.600</longitude>
+		<name>Abandoned Tower (Kara) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc658</imgsrc>
-		<date_added>2000-02-15 07:03:55</date_added>
-		<last_update>2024-06-09 12:00:00</last_update>
-		<retired>N</retired>
-		<tod_req>NA</tod_req>
-	</location>
-	<location>
-		<id>659</id>
-		<latitude>36.100</latitude>
-		<longitude>33.300</longitude>
-		<name>Life Stone (Tower Base)</name>
-		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -8457,7 +8446,7 @@ This mute archmage carries all the regular supplies but also sells something a b
 		<id>690</id>
 		<latitude>-64.800</latitude>
 		<longitude>13.400</longitude>
-		<name>Crater Life Stone</name>
+		<name>Crater Village Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc690</imgsrc>
 		<date_added>2000-02-15 07:03:55</date_added>
@@ -8573,7 +8562,7 @@ The key for the door can be obtained from Devana bint Hamudi, Hamud's daughter, 
 		<id>700</id>
 		<latitude>-29.700</latitude>
 		<longitude>28.900</longitude>
-		<name>Glenden Wood Life Stone (East Outpost)</name>
+		<name>Glenden Wood (E) Outpost Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2000-02-15 07:03:55</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -8913,7 +8902,7 @@ There's also a decent sized population of reedsharks, water and mud golems, and 
 		<latitude>-61.400</latitude>
 		<longitude>-10.200</longitude>
 		<restrictions>12+</restrictions>
-		<name>Ice Golem to the North Direlands</name>
+		<name>Ice Golem to North Direlands</name>
 		<type>Wilderness Portal</type>
 		<arrival_latitude>-24.400</arrival_latitude>
 		<arrival_longitude>-53.800</arrival_longitude>
@@ -9081,7 +9070,7 @@ Its rumored that Devana is the daughter of an Isparian assasin. Fact is that she
 		<id>744</id>
 		<latitude>28.900</latitude>
 		<longitude>60.600</longitude>
-		<name>Sawato Life Stone (East)</name>
+		<name>Sawato (E) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc744</imgsrc>
 		<date_added>2000-06-10 00:00:00</date_added>
@@ -9645,7 +9634,7 @@ Many thanks to Neo for reporting this location.</description>
 		<id>778</id>
 		<latitude>18.500</latitude>
 		<longitude>3.700</longitude>
-		<name>Dueling Arena Life Stone</name>
+		<name>Arena (NPK) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc778</imgsrc>
 		<description>Like most arenas, this one contains a convenient lifestone at the entrance for anyone to use.</description>
@@ -10430,7 +10419,7 @@ The Mosswarts have found a damp cavern to live in far from their beloved swamps.
 		<imgsrc>pics/loc839</imgsrc>
 		<description>Xarbydun was an ancient Empyrean ruin which the Arcanum discovered. It used to be completely underground, only accessible via portal by those level 25 and under. In Hidden Vein the Arcanum Consortium was built above ground from Xarabydun, with NPCs there for various interaction in the Nuhmudira's Boon, Isparian Arms, and Bronze Statues quests. 
 
-In Festivus Ulgrim the Unpleasant wanted to sample the brew in Xarabydun's bar, so, logically, he destroyed the portal and dug a tunnel down to the town. And thus it's level restriction was removed. With various updates to the Harbinger and other quests the Arcanum Consortium has seen more updates. In Evolution a new vendor arrived selling directions and ingredients for making Alchemical Throwing Phials.</description>
+In Festivus Ulgrim the Unpleasant wanted to sample the brew in Xarabydun's bar, so, logically, he Reopened the portal and dug a tunnel down to the town. And thus it's level restriction was removed. With various updates to the Harbinger and other quests the Arcanum Consortium has seen more updates. In Evolution a new vendor arrived selling directions and ingredients for making Alchemical Throwing Phials.</description>
 		<date_added>2000-11-04 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -10464,7 +10453,7 @@ Like a few other dungeons on the Vesayen Isles, this dungeon is mirrored twice o
 		<date_added>2000-11-15 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<dungeon_id>02C1</dungeon_id>
-		<retired>Y</retired>
+		<retired>N</retired>
 		<tod_req>8474</tod_req>
 	</location>
 	<location>
@@ -10613,7 +10602,7 @@ Thanks to Aldrun of Thisltedown for the creature information.</description>
 		<id>852</id>
 		<latitude>77.600</latitude>
 		<longitude>87.900</longitude>
-		<name>Mosswart Nest (Vesayan)</name>
+		<name>Mosswart Nest (Vesayen)</name>
 		<type>Dungeon</type>
 		<imgsrc>pics/image_852</imgsrc>
 		<description>This nest is full of... well... Mosswarts.  Their ranks include Fanatics, Idolaters, and Soul Trappers.  They are also joined by a few of their plump and deadly Idols.</description>
@@ -10642,7 +10631,7 @@ Thanks to Aldrun of Thisltedown for the creature information.</description>
 		<id>854</id>
 		<latitude>72.200</latitude>
 		<longitude>90.700</longitude>
-		<name>Desert Northern Edge Portal</name>
+		<name>Freehold to Desert Northern Edge Portal</name>
 		<type>Wilderness Portal</type>
 		<arrival_latitude>-17.600</arrival_latitude>
 		<arrival_longitude>19.600</arrival_longitude>
@@ -10719,7 +10708,7 @@ This dungeon in the Northern part of the Vesayen Isles is populated with Moarsme
 		<id>859</id>
 		<latitude>69.800</latitude>
 		<longitude>91.400</longitude>
-		<name>Mosswart Temple (Vesayan)</name>
+		<name>Mosswart Temple (Vesayen)</name>
 		<type>Landmark</type>
 		<imgsrc>pics/loc859</imgsrc>
 		<description>This temple is populated by Mosswart Clingers.</description>
@@ -10761,7 +10750,7 @@ These strange tunnels are home to the Moarsmen and a variety of high level Shark
 		<id>862</id>
 		<latitude>82.100</latitude>
 		<longitude>63.700</longitude>
-		<name>Life Stone (Kara SE Beach)</name>
+		<name>Kara (SE) Beach Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc862</imgsrc>
 		<date_added>2000-11-19 00:00:00</date_added>
@@ -10822,7 +10811,7 @@ Thanks to Roberto the First of Thistledown for providing some of the details on 
 		<id>866</id>
 		<latitude>68.600</latitude>
 		<longitude>94.900</longitude>
-		<name>Life Stone (Jungle Shadows)</name>
+		<name>Jungle Shadows Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/loc866</imgsrc>
 		<date_added>2000-11-19 00:00:00</date_added>
@@ -10959,7 +10948,7 @@ Thanks to Roberto the First of Thistledown for providing some of the details on 
 		<description>This portal leads to the Undead Skytower, which in turn leads to Chalicmere Castle, home of Faladaha the Emmissary.</description>
 		<date_added>2000-11-24 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
-		<retired>Y</retired>
+		<retired>N</retired>
 		<tod_req>8536</tod_req>
 	</location>
 	<location>
@@ -11124,7 +11113,7 @@ Mine! Mine!
 		<id>888</id>
 		<latitude>-70.400</latitude>
 		<longitude>-34.500</longitude>
-		<name>Butte to Cragstone</name>
+		<name>Stonehold (W) to Cragstone</name>
 		<type>Town Portal</type>
 		<imgsrc>pics/image_888</imgsrc>
 		<arrival_latitude>-26.000</arrival_latitude>
@@ -11287,7 +11276,7 @@ Will accept Olthoi trophies and make them into weapons and armor. You can also t
 		<id>899</id>
 		<latitude>-71.900</latitude>
 		<longitude>38.000</longitude>
-		<name>North Road Life Stone</name>
+		<name>Bandit Castle (NW) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_899</imgsrc>
 		<description>The perfect place to catch your breath as your journey between Bandit Castle and Neydisa Castle.</description>
@@ -11589,8 +11578,8 @@ Gillian the Poacher tells you, "It seems like Dereth is going downhill pretty ra
 	<location>
 		<id>921</id>
 		<latitude>48.000</latitude>
-		<longitude>-65.200</longitude>
-		<name>Life Stone (Valley of Death)</name>
+		<longitude>-65.100</longitude>
+		<name>Valley of Death Life Stone </name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_921</imgsrc>
 		<description>Thanks for the info, Blackfoot of Frostfell</description>
@@ -11754,7 +11743,7 @@ Thanks go to Compton.</description>
 		<id>934</id>
 		<latitude>61.500</latitude>
 		<longitude>52.900</longitude>
-		<name>Life Stone (Serac Vault)</name>
+		<name>Serac Vault Life Stone </name>
 		<type>Lifestone</type>
 		<description>Thanks go to Compton.</description>
 		<date_added>2001-03-05 00:00:00</date_added>
@@ -12221,8 +12210,8 @@ These tunnels offer access to the fortress city of Linvak Tukal.  They are guard
 	</location>
 	<location>
 		<id>970</id>
-		<latitude>64.000</latitude>
-		<longitude>25.600</longitude>
+		<latitude>64.200</latitude>
+		<longitude>25.500</longitude>
 		<name>Lugian Camp</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_970</imgsrc>
@@ -12478,7 +12467,7 @@ Larry the Rabbit Master has more than his hands full of bunnies.  He might even 
 		<id>986</id>
 		<latitude>-1.900</latitude>
 		<longitude>41.700</longitude>
-		<name>Rabbit Master Life Stone</name>
+		<name>Larry's Garden Life Stone</name>
 		<type>Lifestone</type>
 		<description>Location submitted by Bansheigh. Thanks!</description>
 		<date_added>2001-05-17 00:00:00</date_added>
@@ -12532,7 +12521,7 @@ Larry the Rabbit Master has more than his hands full of bunnies.  He might even 
 		<id>990</id>
 		<latitude>-24.100</latitude>
 		<longitude>-28.100</longitude>
-		<name>Danby's Outpost Life Stone (North)</name>
+		<name>Danby's Outpost (N) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2001-06-22 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -13495,7 +13484,7 @@ Thanks to Morgan the Stout for pointing out this location.</description>
 		<latitude>-79.900</latitude>
 		<longitude>-15.200</longitude>
 		<restrictions>35+</restrictions>
-		<name>Stonehold to the Northwest Direlands</name>
+		<name>Gerold's Gully to the Northwest Direlands</name>
 		<type>Wilderness Portal</type>
 		<imgsrc>pics/image_1060</imgsrc>
 		<arrival_latitude>-5.500</arrival_latitude>
@@ -13514,7 +13503,7 @@ Thanks for submitting this location, Yhe!</description>
 		<id>1061</id>
 		<latitude>74.100</latitude>
 		<longitude>-52.400</longitude>
-		<name>South Rim Life Stone</name>
+		<name>Obsidian Rim (S) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2001-08-14 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -13961,7 +13950,6 @@ Thanks to Twang II of Leafcull for submitting the location and images!</descript
 		<last_update>2024-06-09 12:00:00</last_update>
 		<monsters>Shoushi Settlement</monsters>
 		<retired>N</retired>
-		<settlement>Y</settlement>
 		<tod_req>NA</tod_req>
 	</location>
 	<location>
@@ -14100,8 +14088,8 @@ Oh, and we may not forget to mention the Cow!</description>
 	<location>
 		<id>1101</id>
 		<latitude>-29.400</latitude>
-		<longitude>-52.000</longitude>
-		<name>West Coast Life Stone</name>
+		<longitude>-52.200</longitude>
+		<name>West Coast Peddler Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2001-09-22 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -16460,7 +16448,7 @@ Cottages provide housing and storage for player characters. Houses require a mon
 		<latitude>68.000</latitude>
 		<longitude>77.600</longitude>
 		<restrictions>Purchase Item: Iron Heart</restrictions>
-		<name>Vesayan Overlook (Cottages)</name>
+		<name>Vesayen Overlook (Cottages)</name>
 		<type>Village</type>
 		<imgsrc>pics/image_1236</imgsrc>
 		<description>A community of eight cottages.
@@ -19217,7 +19205,7 @@ Cottages provide housing and storage for player characters. Houses require a mon
 		<id>1424</id>
 		<latitude>60.800</latitude>
 		<longitude>80.300</longitude>
-		<name>Mayoi to Vesayan Overlook</name>
+		<name>Mayoi to Vesayen Overlook</name>
 		<type>Settlement Portal</type>
 		<imgsrc>pics/image_1424</imgsrc>
 		<arrival_latitude>68.000</arrival_latitude>
@@ -29603,7 +29591,7 @@ A Lich Seal is required to unlock the secrets within...</description>
 		<id>2108</id>
 		<latitude>19.800</latitude>
 		<longitude>47.900</longitude>
-		<name>Swamp Life Stone</name>
+		<name>Yanshi (SE) Swamp Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2108</imgsrc>
 		<date_added>2002-04-11 00:00:00</date_added>
@@ -29957,7 +29945,7 @@ Cottages provide housing and storage for player characters. Houses require a mon
 		<id>2129</id>
 		<latitude>-43.200</latitude>
 		<longitude>25.900</longitude>
-		<name>Edlebar Life Stone</name>
+		<name>Edlebar (Holtburg W) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2002-04-14 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -30357,7 +30345,7 @@ Yu Vuo-Ki tells you, However, I can't just send anyone to rescue her. Bring me a
 		<id>2158</id>
 		<latitude>-86.000</latitude>
 		<longitude>-27.700</longitude>
-		<name>Stonehold Portal Life Stone</name>
+		<name>North Beach Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2002-05-12 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -31605,7 +31593,7 @@ Ecorto the Lost Director tells you, "Take this chisel, scrape slivers from the p
 		<id>2243</id>
 		<latitude>26.200</latitude>
 		<longitude>-65.600</longitude>
-		<name>Life Stone (Accursed Halls W)</name>
+		<name>Renegade Fortress Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2243</imgsrc>
 		<date_added>2002-05-28 00:00:00</date_added>
@@ -31825,7 +31813,7 @@ It is not summonable.</description>
 		<latitude>90.200</latitude>
 		<longitude>-64.500</longitude>
 		<restrictions>23+</restrictions>
-		<name>Direlands Desert Edge Portal</name>
+		<name>Candeth Keep to Direlands Desert Edge Portal</name>
 		<type>Wilderness Portal</type>
 		<arrival_latitude>78.700</arrival_latitude>
 		<arrival_longitude>-73.400</arrival_longitude>
@@ -33506,7 +33494,7 @@ Tornash tells you, Greetings. I assume my fellow student sent you to obtain Daic
 		<id>2364</id>
 		<latitude>69.200</latitude>
 		<longitude>93.700</longitude>
-		<name>Small Temple (Vesayan N)</name>
+		<name>Small Temple (Vesayen N)</name>
 		<type>Dungeon</type>
 		<imgsrc>pics/image_2364</imgsrc>
 		<date_added>2002-12-30 00:00:00</date_added>
@@ -34409,7 +34397,7 @@ Lady Tallial tells you, If you are able to bring back to me evidence of MacDugal
 		<id>2424</id>
 		<latitude>-40.600</latitude>
 		<longitude>12.500</longitude>
-		<name>Life Stone (Holtburg W)</name>
+		<name>Holtburg (W) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2424</imgsrc>
 		<description>This is a new, animated lifestone found in the wilderness.</description>
@@ -34422,7 +34410,7 @@ Lady Tallial tells you, If you are able to bring back to me evidence of MacDugal
 		<id>2425</id>
 		<latitude>-48.300</latitude>
 		<longitude>57.400</longitude>
-		<name>Life Stone (Olthoi Tunnels)</name>
+		<name>Olthoi North Life Stone </name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2425</imgsrc>
 		<description>This is a new, animated lifestone found in the wilderness.</description>
@@ -34435,7 +34423,7 @@ Lady Tallial tells you, If you are able to bring back to me evidence of MacDugal
 		<id>2426</id>
 		<latitude>-41.000</latitude>
 		<longitude>-77.400</longitude>
-		<name>Life Stone (Bluespire NW)</name>
+		<name>Bluespire (NW) Life Stone</name>
 		<type>Lifestone</type>
 		<description>This is a new, animated lifestone on the island of Marae Lassal.
 
@@ -34449,7 +34437,7 @@ Thanks to Dotcher and Bodkin of Harvestgain for submitting this.</description>
 		<id>2427</id>
 		<latitude>80.100</latitude>
 		<longitude>96.700</longitude>
-		<name>Life Stone (Vesayan East)</name>
+		<name>Vesayen Isles (W) Life Stone</name>
 		<type>Lifestone</type>
 		<description>This is a new, animated lifestone found on the beaches of the Vesayen Islands.</description>
 		<date_added>2003-03-30 00:00:00</date_added>
@@ -34461,7 +34449,7 @@ Thanks to Dotcher and Bodkin of Harvestgain for submitting this.</description>
 		<id>2428</id>
 		<latitude>-50.200</latitude>
 		<longitude>73.100</longitude>
-		<name>Life Stone (Olthoi E Coast)</name>
+		<name>Olthoi (E) Coast Life Stone</name>
 		<type>Lifestone</type>
 		<description>This is a new, animated lifestone found on the Northern Beaches.</description>
 		<date_added>2003-03-30 00:00:00</date_added>
@@ -34473,7 +34461,7 @@ Thanks to Dotcher and Bodkin of Harvestgain for submitting this.</description>
 		<id>2429</id>
 		<latitude>-70.200</latitude>
 		<longitude>65.500</longitude>
-		<name>Life Stone (NE Shore)</name>
+		<name>NorthEast Shore Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2429</imgsrc>
 		<description>This is a new, animated lifestone found on the Northern Beaches.</description>
@@ -34486,7 +34474,7 @@ Thanks to Dotcher and Bodkin of Harvestgain for submitting this.</description>
 		<id>2430</id>
 		<latitude>-32.200</latitude>
 		<longitude>-38.500</longitude>
-		<name>Life Stone (Axefell Glen)</name>
+		<name>Artifex Vault Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2430</imgsrc>
 		<description>This is a new, animated lifestone found on in the northern forests of Osteth.</description>
@@ -34499,7 +34487,7 @@ Thanks to Dotcher and Bodkin of Harvestgain for submitting this.</description>
 		<id>2431</id>
 		<latitude>-59.200</latitude>
 		<longitude>-76.900</longitude>
-		<name>Life Stone (Martinate Holding)</name>
+		<name>Martinate Holding Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2431</imgsrc>
 		<description>This is a new, animated lifestone found on the northern coast of Marae Lassal.</description>
@@ -34543,7 +34531,7 @@ It is rumored that a Heavy Tumerok Key can open the main gate and that a High Pr
 		<id>2434</id>
 		<latitude>-21.600</latitude>
 		<longitude>-75.200</longitude>
-		<name>Life Stone (North Dires)</name>
+		<name>North Direlands Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2434</imgsrc>
 		<description>A new lifestone erected by Nuhmudira along the northern beaches of the Direlands.</description>
@@ -34741,7 +34729,7 @@ Ulgrim's Island can be reached by giving the Drunken Madman in Baishi a Mug of W
 		<id>2446</id>
 		<latitude>51.300</latitude>
 		<longitude>40.300</longitude>
-		<name>Life Stone (Khayyaban E Valley)</name>
+		<name>Khayyaban (E) Valley Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2446</imgsrc>
 		<description>A lifestone next to a small building in the wilderness of Osteth.</description>
@@ -35691,7 +35679,7 @@ Asheron was again present here for the Recollections event, and exchanged the Em
 		<id>2512</id>
 		<latitude>25.300</latitude>
 		<longitude>-53.100</longitude>
-		<name>Blacksmith's Life Stone</name>
+		<name>Direlands Blacksmith Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2512</imgsrc>
 		<description>A lifestone in the Dires next to a Blacksmith.  Discovered by Circeus.</description>
@@ -36791,7 +36779,7 @@ Submitted by Zen Tek Ken.</description>
 		<id>2590</id>
 		<latitude>88.900</latitude>
 		<longitude>-67.300</longitude>
-		<name>Candeth Keep Life Stone (South)</name>
+		<name>Candeth Keep (S) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2590</imgsrc>
 		<description>A Nuhmidira (new) style lifestone near Candeth Keep.  Still not close enough to be useful.  
@@ -37946,7 +37934,7 @@ Appears to be one of the few safe places to buff, check loot and generally catch
 		<id>2666</id>
 		<latitude>33.900</latitude>
 		<longitude>64.900</longitude>
-		<name>Abandoned Sho Outpost Life Stone</name>
+		<name>Rengade Stronghold Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2666</imgsrc>
 		<description>A lifestone that was formerly in the heart of the Abandoned Sho Outpost has now been moved further away.  Apparently by Lugians.</description>
@@ -38674,7 +38662,7 @@ Sells some special magical gems that will protect you while you're young.  And a
 		<id>2714</id>
 		<latitude>77.400</latitude>
 		<longitude>28.200</longitude>
-		<name>Lugian Life Stone (Linvak Tukal)</name>
+		<name>Linvak Tukal Lugian Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2714</imgsrc>
 		<description>The first Lugian Lifestone, found during A New Threat in Linvak Tukal.</description>
@@ -39105,7 +39093,7 @@ Aun Khekierea tells you, Greetings. I am Aun Khekierea. I have come to this city
 		<id>2746</id>
 		<latitude>-13.800</latitude>
 		<longitude>0.500</longitude>
-		<name>Zaikal Life Stone</name>
+		<name>Zaikhal Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2746</imgsrc>
 		<description>Added during the Mired Hearts event.</description>
@@ -39247,7 +39235,7 @@ Aun Khekierea tells you, Greetings. I am Aun Khekierea. I have come to this city
 	<location>
 		<id>2761</id>
 		<latitude>-0.600</latitude>
-		<longitude>51.400</longitude>
+		<longitude>51.500</longitude>
 		<name>Lytelthorpe Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2761</imgsrc>
@@ -39313,9 +39301,9 @@ Thanks to Elegy of Solclaim for an updated picture!</description>
 	</location>
 	<location>
 		<id>2766</id>
-		<latitude>10.300</latitude>
-		<longitude>46.600</longitude>
-		<name>Yanshi Refugee Camp Life Stone</name>
+		<latitude>10.400</latitude>
+		<longitude>46.700</longitude>
+		<name>Yanshi (N) Jeweler Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2766</imgsrc>
 		<description>This lifestone was added during the Mired Hearts event.</description>
@@ -39326,7 +39314,7 @@ Thanks to Elegy of Solclaim for an updated picture!</description>
 	</location>
 	<location>
 		<id>2767</id>
-		<latitude>-40.600</latitude>
+		<latitude>-40.700</latitude>
 		<longitude>-83.100</longitude>
 		<name>Redspire Life Stone</name>
 		<type>Lifestone</type>
@@ -39367,7 +39355,7 @@ Thanks to Elegy of Solclaim for an updated picture!</description>
 		<id>2770</id>
 		<latitude>14.000</latitude>
 		<longitude>5.400</longitude>
-		<name>Life Stone (Tufa)</name>
+		<name>Tufa Life Stone </name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2770</imgsrc>
 		<description>This lifestone was added during the Mired Hearts event.</description>
@@ -39380,7 +39368,7 @@ Thanks to Elegy of Solclaim for an updated picture!</description>
 		<id>2772</id>
 		<latitude>-68.900</latitude>
 		<longitude>-21.800</longitude>
-		<name>Stonehold Life Stone (NW)</name>
+		<name>Stonehold (NW) Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2772</imgsrc>
 		<description>This lifestone was added during the Mired Hearts event.</description>
@@ -39445,7 +39433,7 @@ Thanks to Elegy of Solclaim for an updated picture!</description>
 		<id>2777</id>
 		<latitude>74.200</latitude>
 		<longitude>84.300</longitude>
-		<name>Life Stone (Kryst)</name>
+		<name>Kryst Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2777</imgsrc>
 		<description>This lifestone was added during the Mired Hearts event.</description>
@@ -39456,9 +39444,9 @@ Thanks to Elegy of Solclaim for an updated picture!</description>
 	</location>
 	<location>
 		<id>2778</id>
-		<latitude>74.300</latitude>
+		<latitude>74.400</latitude>
 		<longitude>92.200</longitude>
-		<name>MacNiall's Freehold Life Stone</name>
+		<name>Freehold Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2778</imgsrc>
 		<description>This lifestone was added during the Mired Hearts event.</description>
@@ -39602,7 +39590,7 @@ Like a few other dungeons on the Vesayen Isles, this dungeon is mirrored twice o
 		<date_added>2004-07-15 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<dungeon_id>02C1</dungeon_id>
-		<retired>N</retired>
+		<retired>Y</retired>
 		<tod_req>8474</tod_req>
 	</location>
 	<location>
@@ -42379,7 +42367,7 @@ Submitted by Mr Fizz of Leafcull.</description>
 		<id>2990</id>
 		<latitude>-90.400</latitude>
 		<longitude>-43.200</longitude>
-		<name>Eastwatch Outpost Life Stone</name>
+		<name>Eastwatch Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2990</imgsrc>
 		<description>Submitted by Mr Fizz of LC.</description>
@@ -42431,7 +42419,7 @@ Submitted by Mr Fizz of Leafcull.</description>
 		<id>2994</id>
 		<latitude>-72.800</latitude>
 		<longitude>-73.400</longitude>
-		<name>Westwatch Outpost Life Stone</name>
+		<name>Westwatch Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_2994</imgsrc>
 		<description>Submitted by Mr Fizz of LC.</description>
@@ -43411,7 +43399,7 @@ Lorca Sammel tells you, I realize that such a quest is beneath your abilities, b
 		<imgsrc>pics/image_3058</imgsrc>
 		<description>Quest(s): Thief of Lunnum.
 
-Fabian Strinjelli tells you, It is wonderful to see new Viamontian arrivals on Dereth! Be glad you did not arrive here when we did. The war with the Duke was bad enough, but the siege of the Olthoi nearly destroyed us all. May King Varicci be forever blessed by the glory of Karlun!</description>
+Fabian Strinjelli tells you, It is wonderful to see new Viamontian arrivals on Dereth! Be glad you did not arrive here when we did. The war with the Duke was bad enough, but the siege of the Olthoi nearly Reopened us all. May King Varicci be forever blessed by the glory of Karlun!</description>
 		<date_added>2005-09-07 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -52234,7 +52222,7 @@ Royal Guard Adrana tells you, You have helped me, and indeed, all of Yanshi.  Th
 		<id>3716</id>
 		<latitude>12.800</latitude>
 		<longitude>46.300</longitude>
-		<name>Destroyed Statue of a Reedshark</name>
+		<name>Reopened Statue of a Reedshark</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_3716</imgsrc>
 		<date_added>2005-12-20 00:00:00</date_added>
@@ -53223,9 +53211,9 @@ The Shadow Spires were the places where Bael'Zharon gathered his forces.
 
 During the The Fourth Sending of Darkness arc, Shadow Spires appeared at different towns.
 
-Arwic as well as Tufa were destroyed by the forces coming from these Spires.
+Arwic as well as Tufa were Reopened by the forces coming from these Spires.
 
-The Spires were destroyed during the Twilight's Gleaming event. Their remains can be found near quite a few Isparian towns, for example the Fallen Shadow Spire of Cragstone.
+The Spires were Reopened during the Twilight's Gleaming event. Their remains can be found near quite a few Isparian towns, for example the Fallen Shadow Spire of Cragstone.
 
 The only one existing at the moment is on the Singularity Caul at 91.8S, 92.8W. It appeared during the The Price of Loyalty event. The rumor A Shadow Spire on the Caul refers to this one. 
 
@@ -54119,7 +54107,7 @@ The exact means of flagging for this dungeon are unknown, several theories exist
 		<id>3843</id>
 		<latitude>94.100</latitude>
 		<longitude>-77.900</longitude>
-		<name>Life Stone (Water Guardian)</name>
+		<name>Water Guardian Island Life Stone </name>
 		<type>Lifestone</type>
 		<date_added>2006-07-28 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -54278,7 +54266,7 @@ Aerlinthe &gt; Devastated Watcher &gt; Devastated/Corrupted Falatacot Temple &gt
 		<id>3854</id>
 		<latitude>75.000</latitude>
 		<longitude>97.500</longitude>
-		<name>Small Temple (Vesayan E)</name>
+		<name>Small Temple (Vesayen E)</name>
 		<type>Dungeon</type>
 		<arrival_latitude>-70.300</arrival_latitude>
 		<arrival_longitude>50.400</arrival_longitude>
@@ -54292,7 +54280,7 @@ Aerlinthe &gt; Devastated Watcher &gt; Devastated/Corrupted Falatacot Temple &gt
 		<id>3855</id>
 		<latitude>-84.600</latitude>
 		<longitude>58.600</longitude>
-		<name>Life Stone (The Deep)</name>
+		<name>The Deep Life Stone </name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_3855</imgsrc>
 		<date_added>2006-07-28 00:00:00</date_added>
@@ -54462,7 +54450,7 @@ Ghost of Galaeral</description>
 		<id>3866</id>
 		<latitude>-55.900</latitude>
 		<longitude>-52.200</longitude>
-		<name>Life Stone (River Delta)</name>
+		<name>River Delta Blacksmith Life Stone </name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_3866</imgsrc>
 		<date_added>2006-07-28 00:00:00</date_added>
@@ -54510,7 +54498,7 @@ Ghost of Galaeral</description>
 		<id>3870</id>
 		<latitude>51.700</latitude>
 		<longitude>-71.000</longitude>
-		<name>Dires Life Stone</name>
+		<name>Obsidian Rim (N) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2006-07-28 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -54931,7 +54919,7 @@ Submitted by Zegeger</description>
 		<imgsrc>pics/image_3907</imgsrc>
 		<description>Quest(s): Totem Gateways.
 
-Can only be entered by giving the Abyssal Totem Gateway a Abyssal Gateway Token. Once you have entered the portal you are flagged to reenter the dungeon by simply using the gateway. Contains the the Abyssal Totem which can be destroyed as part of the Totem Gateways quest.
+Can only be entered by giving the Abyssal Totem Gateway a Abyssal Gateway Token. Once you have entered the portal you are flagged to reenter the dungeon by simply using the gateway. Contains the the Abyssal Totem which can be Reopened as part of the Totem Gateways quest.
 The Gateway of the Abyssal Totem seems to sense your presence and recognizes you. It teleports you into the Temple of the Abyssal Totem...
 Submitted by Zen Tek Ken.</description>
 		<date_added>2006-08-19 00:00:00</date_added>
@@ -55893,7 +55881,7 @@ Apprentice Fletcher tells you, "Um, we're not rich yet, though, so I'm afraid I 
 		<name>Nullified Statue of a Banderling (Tou-Tou)</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_3979</imgsrc>
-		<description>This nullified shell is all that remains of the living Statue of a Banderling that once threatened our peaceful town.  Destroyed through the sole efforts of the citizens of Dereth, it remains as a testament to their valor.  This land is yours now.</description>
+		<description>This nullified shell is all that remains of the living Statue of a Banderling that once threatened our peaceful town.  Reopened through the sole efforts of the citizens of Dereth, it remains as a testament to their valor.  This land is yours now.</description>
 		<date_added>2006-09-23 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -56040,7 +56028,7 @@ Scrivener of Life Magic tells you, "Good luck in your travels, friend.</descript
 		<id>3991</id>
 		<latitude>-7.300</latitude>
 		<longitude>4.700</longitude>
-		<name>Al-Jalima Life Stone (West)</name>
+		<name>Al-Jalima Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_3991</imgsrc>
 		<date_added>2006-09-23 00:00:00</date_added>
@@ -56055,7 +56043,7 @@ Scrivener of Life Magic tells you, "Good luck in your travels, friend.</descript
 		<name>Nullified Statue of a Skeleton (Al-Jalima)</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_3992</imgsrc>
-		<description>This nullified shell is all that remains of the living Statue of a Skeleton that once threatened our peaceful town. Destroyed through the sole efforts of the citizens of Dereth, it remains as a testament to their valor. This land is yours now.</description>
+		<description>This nullified shell is all that remains of the living Statue of a Skeleton that once threatened our peaceful town. Reopened through the sole efforts of the citizens of Dereth, it remains as a testament to their valor. This land is yours now.</description>
 		<date_added>2006-09-23 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -56174,7 +56162,7 @@ Talk to the agent to get a Agent of Arcanum List of items they accept for writs.
 		<name>Nullified Statue of a Skeleton (Khayyaban)</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_4001</imgsrc>
-		<description>This nullified shell is all that remains of the living Statue of a Skeleton that once threatened our peaceful town. Destroyed through the sole efforts of the citizens of Dereth, it remains as a testament to their valor. This land is yours now.</description>
+		<description>This nullified shell is all that remains of the living Statue of a Skeleton that once threatened our peaceful town. Reopened through the sole efforts of the citizens of Dereth, it remains as a testament to their valor. This land is yours now.</description>
 		<date_added>2006-09-23 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -56365,7 +56353,7 @@ Zenzaburou Hensu tells you, "Can you tell us what happened to the Olthoi? I noti
 		<name>Nullified Statue of a Sclavus (Kryst)</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_4016</imgsrc>
-		<description>This nullified shell is all that remains of the living Statue of a Sclavus that once threatened our peaceful town. Destroyed through the sole efforts of the citizens of Dereth, it remains as a testament to their valor. This land is yours now.</description>
+		<description>This nullified shell is all that remains of the living Statue of a Sclavus that once threatened our peaceful town. Reopened through the sole efforts of the citizens of Dereth, it remains as a testament to their valor. This land is yours now.</description>
 		<date_added>2006-09-26 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -56459,7 +56447,7 @@ Saqat tells you, "Straight southwest from here, you'll find an old dry well. Go 
 		<id>4023</id>
 		<latitude>49.000</latitude>
 		<longitude>81.700</longitude>
-		<name>Destroyed Training Hall (Nanto N)</name>
+		<name>Reopened Training Hall (Nanto N)</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_4023</imgsrc>
 		<date_added>2006-10-07 00:00:00</date_added>
@@ -56488,7 +56476,7 @@ Ji Ra Ping gives you Letter to Shin Ro.</description>
 		<id>4025</id>
 		<latitude>52.500</latitude>
 		<longitude>85.400</longitude>
-		<name>Destroyed Training Hall (Nanto E)</name>
+		<name>Reopened Training Hall (Nanto E)</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_4025</imgsrc>
 		<date_added>2006-10-07 00:00:00</date_added>
@@ -56647,7 +56635,7 @@ A poet of some reknown, Miyako is looking for a lost volume of her poetry.  Perh
 		<name>Nullified Statue of a Reedshark (Nanto)</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_4035</imgsrc>
-		<description>This nullified shell is all that remains of the living Statue of a Reedshark that once threatened our peaceful town.  Destroyed through the sole efforts of the citizens of Dereth, it remains as a testament to their valor.  This land is yours now.</description>
+		<description>This nullified shell is all that remains of the living Statue of a Reedshark that once threatened our peaceful town.  Reopened through the sole efforts of the citizens of Dereth, it remains as a testament to their valor.  This land is yours now.</description>
 		<date_added>2006-10-07 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -57649,7 +57637,7 @@ Talk to the agent to get a Agent of Arcanum List of items they accept for writs.
 		<name>Nullified Statue of a Skeleton (Tufa)</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_4113</imgsrc>
-		<description>This nullified shell is all that remains of the living Statue of a Skeleton that once threatened our peaceful town.  Destroyed through the sole efforts of the citizens of Dereth, it remains a testament to their valor.  This land is yours now.</description>
+		<description>This nullified shell is all that remains of the living Statue of a Skeleton that once threatened our peaceful town.  Reopened through the sole efforts of the citizens of Dereth, it remains a testament to their valor.  This land is yours now.</description>
 		<date_added>2006-11-01 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -57828,7 +57816,7 @@ From the drop stick left at the first large room, then it's linear all the way t
 		<id>4127</id>
 		<latitude>57.900</latitude>
 		<longitude>40.000</longitude>
-		<name>Life Stone (Khayyaban East Butte)</name>
+		<name>Khayyaban (SE) Butte Life Stone</name>
 		<type>Lifestone</type>
 		<imgsrc>pics/image_4127</imgsrc>
 		<date_added>2006-11-19 00:00:00</date_added>
@@ -58463,7 +58451,7 @@ Shan Zhen tells you, "I need to ask your help, and you may possibly even need my
 		<name>Nullified Statue of a Banderling (Eastham)</name>
 		<type>Landmark</type>
 		<imgsrc>pics/image_4168</imgsrc>
-		<description>This nullified shell is all that remains of the living Statue of a Banderling that once threatened our peaceful town.  Destroyed through the sole efforts of the citizens of Dereth, it remains as a testament to their valor.  This land is yours now.</description>
+		<description>This nullified shell is all that remains of the living Statue of a Banderling that once threatened our peaceful town.  Reopened through the sole efforts of the citizens of Dereth, it remains as a testament to their valor.  This land is yours now.</description>
 		<date_added>2007-01-15 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -58814,7 +58802,7 @@ Within Kor-Gursha.</description>
 		<imgsrc>pics/image_4189</imgsrc>
 		<description>Queat(s): Titles, Bur Mushroom Collection.
 
-Furgal tells you, "I collect the mushrooms that grow in the Catacombs. We used to be able to harvest these ourselves, but then the Guruk invaded our caverns and destroyed our store houses so we retreated here."
+Furgal tells you, "I collect the mushrooms that grow in the Catacombs. We used to be able to harvest these ourselves, but then the Guruk invaded our caverns and Reopened our store houses so we retreated here."
 
 Furgal tells you, "We sneak out when we can to collect the food we need, but I'm worried the Guruk will eat all of the mushrooms and we might starve. So, I'm collecting a backup supply for the town just in case."
 
@@ -59617,7 +59605,7 @@ At the entrance, you will already see a portal to Harraag's Lair. However, you n
 		<id>4238</id>
 		<latitude>78.200</latitude>
 		<longitude>86.700</longitude>
-		<name>Mosswart Town (Vesayan)</name>
+		<name>Mosswart Town (Vesayen)</name>
 		<type>Landmark</type>
 		<description>A Mosswart settlement at 78.2S, 86.7E on Thesalene Island.</description>
 		<date_added>2009-11-08 13:00:00</date_added>
@@ -60582,7 +60570,7 @@ Found on Xi Ru's Island behind Xi Ru's Chapel and beneath the waterfall. The dun
 		<date_added>2009-11-08 13:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<dungeon_id>00A8</dungeon_id>
-		<retired>Y</retired>
+		<retired>N</retired>
 		<tod_req>37068</tod_req>
 	</location>
 	<location>
@@ -63359,7 +63347,7 @@ Sharia Blackmist tells you, "The Skull of One Thousand Torments can destroy thes
 
 Sharia Blackmist tells you, "You must figure out the location of these spirits using the crystal and destroy three of them. Nothing will be left except for their corrupted, spectral hearts."
 
-Sharia Blackmist tells you, "When you have obtained three hearts as proof that you have destroyed them hand one to me and I will reward you for your efforts."</description>
+Sharia Blackmist tells you, "When you have obtained three hearts as proof that you have Reopened them hand one to me and I will reward you for your efforts."</description>
 		<date_added>2009-11-09 12:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -63459,7 +63447,7 @@ The portal to this dungeon opens in the lady room at the bottom of Aerlinthe Kee
 
 The castle has erupted from underneath and is floating on clouds, leaving a rubble strewn pit beneath it.
 
-Mhoire Castle has been destroyed by Geraine in the April 2012 Patch - Retribution. The castle now lies on the hillside in pieces below where it used to float.</description>
+Mhoire Castle has been Reopened by Geraine in the April 2012 Patch - Retribution. The castle now lies on the hillside in pieces below where it used to float.</description>
 		<date_added>2009-11-09 12:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -65900,9 +65888,9 @@ Tyokai Renjiro the Grocer tells you, "Hello, need some fresh fruit or perhaps so
 	</location>
 	<location>
 		<id>4643</id>
-		<latitude>88.200</latitude>
+		<latitude>88.300</latitude>
 		<longitude>-60.900</longitude>
-		<name>Life Stone (Candeth Keep E)</name>
+		<name>Candeth Keep (Further E) Life Stone</name>
 		<type>Lifestone</type>
 		<date_added>2009-11-12 00:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
@@ -68041,7 +68029,7 @@ A riverside drudge camp. One of the drudge Prowlers 6 Musty Keys which open the 
 		<longitude>64.900</longitude>
 		<name>Fycheck Outpost</name>
 		<type>Landmark</type>
-		<description>An abandoned Sho outpost. It was long unoccupied, until renegade Gotrok Lugians took it over. There was a lifestone in the outpost, but when the lugians took over, the lifestone was destroyed or relocated, and there is now one to the north. There is a portal to Eastham at the eastern end of the outpost. The lugians guard a Runed Chest (resistance: 200). Inside one of the buildings, the lugians established a Renegade Stronghold.</description>
+		<description>An abandoned Sho outpost. It was long unoccupied, until renegade Gotrok Lugians took it over. There was a lifestone in the outpost, but when the lugians took over, the lifestone was Reopened or relocated, and there is now one to the north. There is a portal to Eastham at the eastern end of the outpost. The lugians guard a Runed Chest (resistance: 200). Inside one of the buildings, the lugians established a Renegade Stronghold.</description>
 		<date_added>2009-11-14 13:00:00</date_added>
 		<last_update>2024-06-09 12:00:00</last_update>
 		<retired>N</retired>
@@ -71169,7 +71157,7 @@ Recently, many reports have been made by travelers coming to and from the southe
 		<id>8999</id>
 		<latitude>-7.200</latitude>
 		<longitude>6.100</longitude>
-		<name>Al-Jalima Life Stone (East)</name>
+		<name>Al-Jalima (East) Life Stone</name>
 		<type>Lifestone</type>
 		<description>East of Town.</description>
 		<date_added>2009-11-15 00:00:00</date_added>
@@ -74603,7 +74591,7 @@ Sir Draithon tells you, "Greetings. There is little time, so I'll cut right to t
 
 Sir Draithon tells you, "Hoshino Kei's Handmaiden, Ayaname Chiyoko, has been kidnapped!"
 
-Sir Draithon tells you, "Hoshino Kei's rooms in the castle were all but destroyed ahain. Ayaname Chiyoko was in the rooms at the time, and we fear she has been abducted in another attempt on Princess Kei."
+Sir Draithon tells you, "Hoshino Kei's rooms in the castle were all but Reopened ahain. Ayaname Chiyoko was in the rooms at the time, and we fear she has been abducted in another attempt on Princess Kei."
 
 Sir Draithon tells you, "As the damage is similar to Princess Kei's previous abduction, we are beginning the search in the Graveyard in the Direlands once again. If this abduction is the result of further undead agression agains the Royal Family, we'll have to find a more permanent way to put and end to it.
 
@@ -74829,9 +74817,9 @@ Well-Balanced Lugian Greataxe</description>
 	</location>
 	<location>
 		<id>9248</id>
-		<latitude>99.100</latitude>
-		<longitude>-87.100</longitude>
-		<name>Lugian Life Stone (Mare Tukal)</name>
+		<latitude>99.200</latitude>
+		<longitude>-87.200</longitude>
+		<name>Mare Tukal Lugian Life Stone</name>
 		<type>Lifestone</type>
 		<description>Mare Tukal Lifestone.</description>
 		<date_added>2010-05-12 12:00:00</date_added>
@@ -80821,7 +80809,7 @@ Marcus gives you Contract for Kill: Rynthid Minions.</description>
 		<type>NPC</type>
 		<description>Quest(s): Kill Tasks: Rynthid Ragers.
 		
-Ranulf tells you, "Greetings adventurer. The Rynthid Ragers are a particularly vicious being. They must be destroyed immediately."
+Ranulf tells you, "Greetings adventurer. The Rynthid Ragers are a particularly vicious being. They must be Reopened immediately."
 Ranulf tells you, "I have been sent to recruit the strongest of warriors to defeat the Rynthid Ragers that await on the landscape."
 Ranulf tells you, "Defeat 15 of these Rynthid Ragers and you will have earned your reward."
 Ranulf tells you, "Keep in mind I will only reward warriors for kills well within the infested area. The lesser beings on the outer edges are of little concern to the Council."
@@ -81333,7 +81321,7 @@ Oak, Hickory, Birch, Willow, Maple, Cedar, Pine, Spruce, Yew, Ash</description>
 		<id>9698</id>
 		<latitude>-43.800</latitude>
 		<longitude>-44.900</longitude>
-		<name>Life Stone (Plateau Village)</name>
+		<name>Plateau Base Life Stone</name>
 		<type>Lifestone</type>
 		<description>A Lifestone.</description>
 		<date_added>2022-12-24 12:00:00</date_added>
@@ -81343,9 +81331,9 @@ Oak, Hickory, Birch, Willow, Maple, Cedar, Pine, Spruce, Yew, Ash</description>
 	</location>
 	<location>
 		<id>9699</id>
-		<latitude>45.200</latitude>
+		<latitude>45.300</latitude>
 		<longitude>-46.200</longitude>
-		<name>East Direlands Swamp Life Stone</name>
+		<name>Direlands (E) Swamp Life Stone</name>
 		<type>Lifestone</type>
 		<description>A Lifestone.</description>
 		<date_added>2022-12-24 12:00:00</date_added>
@@ -81356,8 +81344,8 @@ Oak, Hickory, Birch, Willow, Maple, Cedar, Pine, Spruce, Yew, Ash</description>
 	<location>
 		<id>9700</id>
 		<latitude>-38.600</latitude>
-		<longitude>-65.700</longitude>
-		<name>Flame Guardian Island</name>
+		<longitude>-65.800</longitude>
+		<name>Flame Guardian Island Life Stone</name>
 		<type>Lifestone</type>
 		<description>A Lifestone.</description>
 		<date_added>2022-12-24 12:00:00</date_added>
@@ -81369,7 +81357,7 @@ Oak, Hickory, Birch, Willow, Maple, Cedar, Pine, Spruce, Yew, Ash</description>
 		<id>9701</id>
 		<latitude>-6.700</latitude>
 		<longitude>-89.900</longitude>
-		<name>Nomad Tower Life Stone</name>
+		<name>Creepy Canyons Life Stone</name>
 		<type>Lifestone</type>
 		<description>A Lifestone.</description>
 		<date_added>2022-12-24 12:00:00</date_added>
@@ -81381,19 +81369,7 @@ Oak, Hickory, Birch, Willow, Maple, Cedar, Pine, Spruce, Yew, Ash</description>
 		<id>9702</id>
 		<latitude>73.400</latitude>
 		<longitude>-36.100</longitude>
-		<name>Peddler Life Stone (SE Direlands)</name>
-		<type>Lifestone</type>
-		<description>A Lifestone.</description>
-		<date_added>2022-12-24 12:00:00</date_added>
-		<last_update>2024-06-09 12:00:00</last_update>
-		<retired>N</retired>
-		<tod_req>NA</tod_req>
-	</location>
-	<location>
-		<id>9703</id>
-		<latitude>-43.800</latitude>
-		<longitude>-44.900</longitude>
-		<name>Plateau Base Life Stone</name>
+		<name>SouthEast Direlands Peddler Life Stone</name>
 		<type>Lifestone</type>
 		<description>A Lifestone.</description>
 		<date_added>2022-12-24 12:00:00</date_added>
@@ -81405,7 +81381,7 @@ Oak, Hickory, Birch, Willow, Maple, Cedar, Pine, Spruce, Yew, Ash</description>
 		<id>9704</id>
 		<latitude>8.800</latitude>
 		<longitude>75.200</longitude>
-		<name>Southeast Of Dryreach Life Stone</name>
+		<name>Dryreach (SE) Life Stone</name>
 		<type>Lifestone</type>
 		<description>A Lifestone.</description>
 		<date_added>2022-12-24 12:00:00</date_added>
@@ -81415,8 +81391,8 @@ Oak, Hickory, Birch, Willow, Maple, Cedar, Pine, Spruce, Yew, Ash</description>
 	</location>
 	<location>
 		<id>9705</id>
-		<latitude>86.400</latitude>
-		<longitude>5.400</longitude>
+		<latitude>86.500</latitude>
+		<longitude>5.500</longitude>
 		<name>Southern Landbridge Life Stone</name>
 		<type>Lifestone</type>
 		<description>A Lifestone.</description>
@@ -81429,7 +81405,7 @@ Oak, Hickory, Birch, Willow, Maple, Cedar, Pine, Spruce, Yew, Ash</description>
 		<id>9706</id>
 		<latitude>80.900</latitude>
 		<longitude>-69.900</longitude>
-		<name>NW of Candeth Keep Life Stone</name>
+		<name>Candeth Keep (NW) Life Stone</name>
 		<type>Lifestone</type>
 		<description>A Lifestone.</description>
 		<date_added>2022-12-24 12:00:00</date_added>
@@ -81598,7 +81574,7 @@ Many thanks to Neo for reporting this location.</description>
 		<id>9808</id>
 		<latitude>81.900</latitude>
 		<longitude>97.000</longitude>
-		<name>Small Temple (Veseyan S)</name>
+		<name>Small Temple (Vesayen S)</name>
 		<type>Dungeon</type>
 		<date_added>2024-06-09 12:00:00</date_added>
 		<dungeon_id>02C0</dungeon_id>
@@ -83248,7 +83224,7 @@ Within The Eastern Catacombs.</description>
 	<location>
 		<id>9932</id>
 		<latitude>29.500</latitude>
-		<longitude>-65.500</longitude>
+		<longitude>-65.600</longitude>
 		<name>Renegade Fortress (120+)</name>
 		<type>Dungeon</type>
 		<description>Quest(s): Renegade Fortress, Burun Burrow, Noble Weapons.
@@ -84192,7 +84168,7 @@ This portal is warded against those who have not earned the right to access the 
 		<longitude>46.700</longitude>
 		<name>North Yanshi Outpost Meeting Hall</name>
 		<type>Meeting Hall</type>
-		<description>Destroyed Old Portal</description>
+		<description>Reopened Old Portal</description>
 		<date_added>2024-06-09 12:00:00</date_added>
 		<retired>Y</retired>
 		<tod_req>6110</tod_req>
@@ -84486,7 +84462,7 @@ Grand Sentinel Ehcac tells you, "To begin the marriage ceremony, you must first 
 		<arrival_latitude>-8.000</arrival_latitude>
 		<arrival_longitude>14.100</arrival_longitude>
 		<date_added>2024-06-09 12:00:00</date_added>
-		<retired>Y</retired>
+		<retired>N</retired>
 		<tod_req>14274</tod_req>
 	</location>
 	<location>
@@ -84503,7 +84479,7 @@ Grand Sentinel Ehcac tells you, "To begin the marriage ceremony, you must first 
 	</location>
 	<location>
 		<id>10034</id>
-		<latitude>-82.600</latitude>
+		<latitude>82.600</latitude>
 		<longitude>-70.200</longitude>
 		<name>Candeth Keep to Glenden Wood</name>
 		<type>Town Portal</type>
@@ -84581,7 +84557,7 @@ Grand Sentinel Ehcac tells you, "To begin the marriage ceremony, you must first 
 		<type>Town Portal</type>
 		<arrival_latitude>-10.800</arrival_latitude>
 		<arrival_longitude>59.300</arrival_longitude>
-		<description>Destroyed Old Portal</description>
+		<description>Reopened Old Portal</description>
 		<date_added>2024-06-09 12:00:00</date_added>
 		<retired>Y</retired>
 		<tod_req>1025</tod_req>
@@ -84720,7 +84696,7 @@ Grand Sentinel Ehcac tells you, "To begin the marriage ceremony, you must first 
 	</location>
 	<location>
 		<id>10052</id>
-		<latitude>82.600</latitude>
+		<latitude>82.500</latitude>
 		<longitude>63.800</longitude>
 		<name>Kara Area to Sawato</name>
 		<type>Town Portal</type>
@@ -84732,8 +84708,8 @@ Grand Sentinel Ehcac tells you, "To begin the marriage ceremony, you must first 
 	</location>
 	<location>
 		<id>10053</id>
-		<latitude>75.500</latitude>
-		<longitude>-36.200</longitude>
+		<latitude>73.500</latitude>
+		<longitude>36.200</longitude>
 		<name>Peddler to Sawato</name>
 		<type>Town Portal</type>
 		<arrival_latitude>29.100</arrival_latitude>
@@ -84799,7 +84775,7 @@ Grand Sentinel Ehcac tells you, "To begin the marriage ceremony, you must first 
 		<type>Town Portal</type>
 		<arrival_latitude>47.400</arrival_latitude>
 		<arrival_longitude>25.600</arrival_longitude>
-		<description>Destroyed Old Portal</description>
+		<description>Reopened Old Portal</description>
 		<date_added>2024-06-09 12:00:00</date_added>
 		<retired>Y</retired>
 		<tod_req>4572</tod_req>
@@ -85806,7 +85782,7 @@ Sells Services: Casts Level IV Spells</description>
 	</location>
 	<location>
 		<id>10138</id>
-		<latitude>-45.200</latitude>
+		<latitude>-43.200</latitude>
 		<longitude>-43.300</longitude>
 		<name>Ground(S) to Plateau Top</name>
 		<type>Wilderness Portal</type>
@@ -85909,7 +85885,7 @@ Sells Services: Casts Level IV Spells</description>
 		<id>10146</id>
 		<latitude>49.400</latitude>
 		<longitude>-70.800</longitude>
-		<name>Valley of Death to Norwest Direlands</name>
+		<name>Valley of Death to Northwest Direlands</name>
 		<type>Wilderness Portal</type>
 		<arrival_latitude>-5.500</arrival_latitude>
 		<arrival_longitude>-87.500</arrival_longitude>
@@ -85948,7 +85924,7 @@ Sells Services: Casts Level IV Spells</description>
 		<id>10149</id>
 		<latitude>72.100</latitude>
 		<longitude>-72.100</longitude>
-		<name>North Direlands Valley Junction</name>
+		<name>Obsidian Plains to North Direlands Valley Junction</name>
 		<type>Wilderness Portal</type>
 		<arrival_latitude>-2.600</arrival_latitude>
 		<arrival_longitude>-65.100</arrival_longitude>
@@ -85958,7 +85934,7 @@ Sells Services: Casts Level IV Spells</description>
 	</location>
 	<location>
 		<id>10150</id>
-		<latitude>-84.500</latitude>
+		<latitude>43.300</latitude>
 		<longitude>-49.000</longitude>
 		<name>Direlands to Vesayen Isles</name>
 		<type>Wilderness Portal</type>
@@ -86238,6 +86214,66 @@ To cause the portal to open, kill the six guardian gear knights in the six statu
 		<date_added>2024-06-09 12:00:00</date_added>
 		<retired>N</retired>
 		<tod_req>70714</tod_req>
+	</location>
+	<location>
+		<id>10173</id>
+		<latitude>54.100</latitude>
+		<longitude>-17.100</longitude>
+		<name>Regina Peddler Life Stone</name>
+		<type>Lifestone</type>
+		<date_added>2024-06-13 12:00:00</date_added>
+		<retired>N</retired>
+		<tod_req>NA</tod_req>
+	</location>
+	<location>
+		<id>10174</id>
+		<latitude>63.700</latitude>
+		<longitude>26.100</longitude>
+		<name>Lugian Camp Peddler Tower Life Stone</name>
+		<type>Lifestone</type>
+		<date_added>2024-06-13 12:00:00</date_added>
+		<retired>N</retired>
+		<tod_req>NA</tod_req>
+	</location>
+	<location>
+		<id>10175</id>
+		<latitude>17.600</latitude>
+		<longitude>70.700</longitude>
+		<name>Gromnie Clan Life Stone</name>
+		<type>Lifestone</type>
+		<date_added>2024-06-13 12:00:00</date_added>
+		<retired>N</retired>
+		<tod_req>NA</tod_req>
+	</location>
+	<location>
+		<id>10176</id>
+		<latitude>17.900</latitude>
+		<longitude>3.900</longitude>
+		<name>Arena (PK) Life Stone</name>
+		<type>Lifestone</type>
+		<date_added>2024-06-13 12:00:00</date_added>
+		<retired>N</retired>
+		<tod_req>NA</tod_req>
+	</location>
+	<location>
+		<id>10177</id>
+		<latitude>-41.900</latitude>
+		<longitude>16.100</longitude>
+		<name>Xarabydun Town Life Stone</name>
+		<type>Lifestone</type>
+		<date_added>2024-06-13 12:00:00</date_added>
+		<retired>N</retired>
+		<tod_req>NA</tod_req>
+	</location>
+	<location>
+		<id>10178</id>
+		<latitude>2.300</latitude>
+		<longitude>50.600</longitude>
+		<name>Hollow Lair Life Stone</name>
+		<type>Lifestone</type>
+		<date_added>2024-06-13 12:00:00</date_added>
+		<retired>N</retired>
+		<tod_req>NA</tod_req>
 	</location>
 <!-- ********************************************** -->
 <!-- **** LOCATION PASTE FROM EXCEL ENDS HERE *** -->
